@@ -1,0 +1,298 @@
+{
+    "id": "waynejtam",
+    "name": "Wayne Tam",
+    "city": "United States",
+    "country_code": "US",
+    "position": "Software Engineer at Amazon",
+    "current_company": {
+        "link": "https://www.linkedin.com/company/amazon?trk=public_profile_topcard-current-company",
+        "name": "Amazon",
+        "company_id": "amazon",
+        "title": "Software Engineer at Amazon"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "New York City Metropolitan Area",
+            "description_html": null,
+            "duration": "Jun 2022 - Present 2 years 8 months",
+            "start_date": "Jun 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 8 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "https://www.linkedin.com/company/amazon",
+            "company_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_100_100/company-logo_100_100/0/1630640869849/amazon_logo?e=2147483647&v=beta&t=QsC16wgE3EBriPFDlAgtToh2xndFwQWKmR2WcyMG1nk"
+        },
+        {
+            "title": "Software Engineer",
+            "description": "\u2022 Implemented 15+ pages for GM mobile app and EU websites using Strapi, JS, and web technologies \u2022 Created modular and extendable product page template to expedite development and improve scalability \u2022 Constructed an interactive app component that revolves and colorizes a model to showcase products",
+            "description_html": "&#x2022; Implemented 15+ pages for GM mobile app and EU websites using Strapi, JS, and web technologies <br>&#x2022; Created modular and extendable product page template to expedite development and improve scalability <br>&#x2022; Constructed an interactive app component that revolves and colorizes a model to showcase products <!---->",
+            "duration": "Sep 2021 Jun 2022 10 months",
+            "start_date": "Sep 2021",
+            "end_date": "Jun 2022",
+            "duration_short": "10 months",
+            "company": "General Motors",
+            "company_id": "general-motors",
+            "url": "https://www.linkedin.com/company/general-motors",
+            "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGi5bqIMQIO6g/company-logo_100_100/company-logo_100_100/0/1644857989078/general_motors_logo?e=2147483647&v=beta&t=XN0qzOlBpAYoXt9eAg4UkVmQTEK5Yr_lSvZm_-gUuuw"
+        },
+        {
+            "title": "Data Engineer",
+            "description": "\u2022 Applied Helix ETL design to process over 20 datasets into views within Synapse SQL data warehouse\u2022 Integrated Python, DDL, and SQL scripts into BSMH Azure pipelines to accelerate data transfer and team workflow \u2022 Guided incoming hires through mentorship meetings to help on-board and form relationships",
+            "description_html": "&#x2022; Applied Helix ETL design to process over 20 datasets into views within Synapse SQL data warehouse<br>&#x2022; Integrated Python, DDL, and SQL scripts into BSMH Azure pipelines to accelerate data transfer and team workflow <br>&#x2022; Guided incoming hires through mentorship meetings to help on-board and form relationships <!---->",
+            "duration": "Jan 2021 Aug 2021 8 months",
+            "start_date": "Jan 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "8 months",
+            "company": "Bon Secours Mercy Health",
+            "company_id": "bon-secours-mercy-health-system",
+            "url": "https://www.linkedin.com/company/bon-secours-mercy-health-system",
+            "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEEW1xGIGwD-A/company-logo_100_100/company-logo_100_100/0/1630515170441/bon_secours_mercy_health_system_logo?e=2147483647&v=beta&t=qMuHUMOjE-ZN00bw8OC5xMwaVSLCSxdQ5SGjel7jnWk"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "New York City Metropolitan Area",
+            "description": "\u2022 Built two Toto Images\u2019 websites from the ground up using Bootstrap, Sass, and Gulp\u2022 Led weekly meetings to discuss websites\u2019 development and progression with executives\u2022 Doubled websites\u2019 traffic through design overhaul, code refactoring, and SEO maximization",
+            "description_html": "&#x2022; Built two Toto Images&#x2019; websites from the ground up using Bootstrap, Sass, and Gulp<br>&#x2022; Led weekly meetings to discuss websites&#x2019; development and progression with executives<br>&#x2022; Doubled websites&#x2019; traffic through design overhaul, code refactoring, and SEO maximization <!---->",
+            "duration": "Jun 2019 Aug 2019 3 months",
+            "start_date": "Jun 2019",
+            "end_date": "Aug 2019",
+            "duration_short": "3 months",
+            "company": "TOTO IMAGES, INC.",
+            "company_id": "toto-group",
+            "url": "https://www.linkedin.com/company/toto-group",
+            "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGqxSp7Dafpag/company-logo_100_100/company-logo_100_100/0/1630482161136/toto_group_logo?e=2147483647&v=beta&t=k2NETvigdhyALBCERwC2Q4_q-tT2V2myIxYd3hb8t9g"
+        }
+    ],
+    "url": "https://www.linkedin.com/in/waynejtam",
+    "people_also_viewed": [
+        {
+            "profile_link": "https://www.linkedin.com/in/gideon-cheruiyot?trk=public_profile_browsemap-profile",
+            "name": "Gideon Cheruiyot",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/vaidehiduraphe?trk=public_profile_browsemap-profile",
+            "name": "Vaidehi Duraphe",
+            "about": null,
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/aashna-mahajan?trk=public_profile_browsemap-profile",
+            "name": "Aashna Mahajan",
+            "about": null,
+            "location": "Jersey City, NJ"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/aishabjr?trk=public_profile_browsemap-profile",
+            "name": "Aisha Balogun",
+            "about": null,
+            "location": "Dallas-Fort Worth Metroplex"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/khushboomandlecha?trk=public_profile_browsemap-profile",
+            "name": "Khushboo Mandlecha",
+            "about": "Software Engineering Manager @ JPMorgan Chase",
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/prathyusha-pappala?trk=public_profile_browsemap-profile",
+            "name": "Prathyusha Pappala",
+            "about": null,
+            "location": "Dallas, TX"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/chrisbuonocore?trk=public_profile_browsemap-profile",
+            "name": "Chris Buonocore",
+            "about": null,
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/yiyu-tian?trk=public_profile_browsemap-profile",
+            "name": "Yiyu Tian",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/siddharthasingh007?trk=public_profile_browsemap-profile",
+            "name": "Siddhartha Singh",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/sainagshetty?trk=public_profile_browsemap-profile",
+            "name": "Sainag Shetty",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        }
+    ],
+    "educations_details": "Rutgers University",
+    "education": [
+        {
+            "title": "Rutgers University",
+            "degree": "Bachelor of Science - BS",
+            "field": "Computer Science",
+            "url": "https://www.linkedin.com/school/rutgersu/?trk=public_profile_school_profile-section-card_image-click",
+            "start_year": "2017",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFnLVzNL8ZOYg/company-logo_100_100/company-logo_100_100/0/1692195098121/rutgersu_logo?e=2147483647&v=beta&t=7naBtzu4Q4jHMjLQBFlb0QMtYfWJbOc9qyjx8KqTq2E"
+        },
+        {
+            "title": "New Jersey Institute of Technology",
+            "degree": "Computing Science",
+            "url": "https://www.linkedin.com/school/njit/?trk=public_profile_school_profile-section-card_image-click",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGeM2xL_Ibjhw/company-logo_100_100/company-logo_100_100/0/1630582551756/njit_logo?e=2147483647&v=beta&t=EFrOG8Y_OqtEhtrgdeKKQgJ2ts3egzR0x-x7lsyFKTI"
+        }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/C4E03AQHpR0NQZJir_w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1566911457202?e=2147483647&v=beta&t=j9QmeNhyAYFtxr2-L5C9yIih7YeVuYYK8UJaWWAd_z0",
+    "followers": 250,
+    "connections": 246,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/waynejtam",
+    "linkedin_id": "waynejtam",
+    "activity": [
+        {
+            "interaction": "Liked by Wayne Tam",
+            "link": "https://www.linkedin.com/posts/danielleehan_so-i-started-my-dream-job-last-week-from-activity-7196413057185513473-AFAS",
+            "title": "So\u2026 I started my dream job last week. From ruffling through my dad\u2019s Economist editions as a kid (I liked the colours) to pushing myself to read it\u2026",
+            "img": "https://media.licdn.com/dms/image/v2/D4E22AQGz3PI1pwcZEg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1715758574669?e=2147483647&v=beta&t=xAxhshTME4Nqo-iWXMU_G0lL3lxM4o14m-8LDBYJOZ0",
+            "id": "7196413057185513473"
+        },
+        {
+            "interaction": "Liked by Wayne Tam",
+            "link": "https://www.linkedin.com/posts/daniel-l-660759142_opentowork-activity-7112098598837698560-PEor",
+            "title": "After a fulfilling year at Visual Lease, I decided to start anew and explore another opportunity. Unfortunately, just five days before my new start\u2026",
+            "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+            "id": "7112098598837698560"
+        },
+        {
+            "interaction": "Liked by Wayne Tam",
+            "link": "https://www.linkedin.com/posts/jaidev-phadke_hey-i-started-a-new-job-this-week-at-the-activity-7078493489012846592-UqoO",
+            "title": "Hey! I started a new job this week at the New York City Economic Development Corporation. It's been a great first week, I like the people on my\u2026",
+            "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+            "id": "7078493489012846592"
+        },
+        {
+            "interaction": "Liked by Wayne Tam",
+            "link": "https://www.linkedin.com/posts/splunk_make-every-moment-count-to-drive-more-revenue-activity-6958073523529560064-xlNP",
+            "title": "Splunk provides a single platform for your data where actionable insights are aggregated and easily accessible so you can turn operational retail\u2026",
+            "img": "https://media.licdn.com/dms/image/v2/D5618AQFT4OxybAQueg/companyUpdate-article-image-shrink_1280/companyUpdate-article-image-shrink_1280/0/1658933966674/practitioner_1200x12002png?e=2147483647&v=beta&t=p0877M66GItEhYIDYgaBPJVj92X77M_7ADg01PLj7zQ",
+            "id": "6958073523529560064"
+        },
+        {
+            "interaction": "Liked by Wayne Tam",
+            "link": "https://www.linkedin.com/posts/microsoft-cloud-partner-program_defend-against-cybersecurity-threats-activity-7064989372709830657-Yf__",
+            "title": "Generate leads with this customizable Defend Against Cybersecurity Threats campaign focused on addressing customers\u2019 needs for prevention, detection\u2026",
+            "img": "https://media.licdn.com/dms/image/v2/D5634AQEUS6gxBZpvog/ugc-proxy-shrink_1280_800/ugc-proxy-shrink_1280_800/0/1684424729960?e=2147483647&v=beta&t=3BWLfmglLc6m2giYN86ALen70tzF6MggU5YvkiDoHc0",
+            "id": "7064989372709830657"
+        },
+        {
+            "interaction": "Liked by Wayne Tam",
+            "link": "https://www.linkedin.com/posts/amanvaid_lovewhereyouworked-opentowork-activity-6995470997453762560-0KbI",
+            "title": "Hey All, I wanted to wait until the weekend was over before posting here. Unfortunately I was part of the layoffs at Twitter last Friday. Working\u2026",
+            "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+            "id": "6995470997453762560"
+        },
+        {
+            "interaction": "Liked by Wayne Tam",
+            "link": "https://www.linkedin.com/posts/jaderowland_government-congress-policy-activity-6973060566730866688-wSj3",
+            "title": "I am profoundly thankful and ecstatic to share that I started my legislative fellowship in the US Senate today. I hope to assist with immigration and\u2026",
+            "img": "https://media.licdn.com/dms/image/v2/C4E22AQHlqQvoaWYUhQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1662507191016?e=2147483647&v=beta&t=N7laVmcvAEVmt3maIfs-tGW6auYA1CWVSa3HYyEIGTs",
+            "id": "6973060566730866688"
+        },
+        {
+            "interaction": "Liked by Wayne Tam",
+            "link": "https://www.linkedin.com/posts/brian-nam_excited-to-share-that-vernon-of-seventeen-activity-6965920686947135488-i0JG",
+            "title": "Excited to share that Vernon of SEVENTEEN will be joining Mindset by DIVE Studios to share his most intimate stories and life lessons with fans",
+            "img": "https://media.licdn.com/dms/image/v2/C5622AQGFhjRe_crPdQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1660804910110?e=2147483647&v=beta&t=iQSEPFzhiNqaPprfyreIF1YrcIYTNsARbBWinSJqs9I",
+            "id": "6965920686947135488"
+        },
+        {
+            "interaction": "Liked by Wayne Tam",
+            "link": "https://www.linkedin.com/posts/nasa-ames-research-center_unfoldtheuniverse-activity-6952654379812368384-2drD",
+            "title": "We're starry eyed! The first full-color images from the James Webb Space Telescope have been released. #UnfoldTheUniverse with us here:\u2026",
+            "img": "https://media.licdn.com/dms/image/v2/C5622AQHU6r8kw8dlHQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1657641977725?e=2147483647&v=beta&t=CiB3NwtUcGGZjAs4isYE9rWWCuoymIYD39cX2vcfSQw",
+            "id": "6952654379812368384"
+        }
+    ],
+    "linkedin_num_id": "537145518",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [
+        {
+            "url": "https://www.linkedin.com/in/gideon-cheruiyot",
+            "name": "Gideon Cheruiyot",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/gideon-cheruiyot"
+        },
+        {
+            "url": "https://www.linkedin.com/in/vaidehiduraphe",
+            "name": "Vaidehi Duraphe",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/vaidehiduraphe"
+        },
+        {
+            "url": "https://www.linkedin.com/in/aashna-mahajan",
+            "name": "Aashna Mahajan",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/aashna-mahajan"
+        },
+        {
+            "url": "https://www.linkedin.com/in/aishabjr",
+            "name": "Aisha Balogun",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/aishabjr"
+        },
+        {
+            "url": "https://www.linkedin.com/in/khushboomandlecha",
+            "name": "Khushboo Mandlecha",
+            "title": "Software Engineering Manager @ JPMorgan Chase",
+            "url_text": "https://www.linkedin.com/in/khushboomandlecha"
+        },
+        {
+            "url": "https://www.linkedin.com/in/prathyusha-pappala",
+            "name": "Prathyusha Pappala",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/prathyusha-pappala"
+        },
+        {
+            "url": "https://www.linkedin.com/in/chrisbuonocore",
+            "name": "Chris Buonocore",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/chrisbuonocore"
+        },
+        {
+            "url": "https://www.linkedin.com/in/yiyu-tian",
+            "name": "Yiyu Tian",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/yiyu-tian"
+        },
+        {
+            "url": "https://www.linkedin.com/in/siddharthasingh007",
+            "name": "Siddhartha Singh",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/siddharthasingh007"
+        },
+        {
+            "url": "https://www.linkedin.com/in/sainagshetty",
+            "name": "Sainag Shetty",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/sainagshetty"
+        }
+    ],
+    "default_avatar": false,
+    "timestamp": "2025-01-26T19:03:20.992Z",
+    "input": {
+        "url": "https://www.linkedin.com/in/waynejtam"
+    }
+}

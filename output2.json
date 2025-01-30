@@ -1,0 +1,465 @@
+{
+    "id": "rohan-j-patel",
+    "name": "Rohan Patel",
+    "city": "New York City Metropolitan Area",
+    "country_code": "US",
+    "about": "Experienced Senior Software Engineer with a demonstrated history of working in the\u2026",
+    "current_company": {
+        "link": "https://www.linkedin.com/company/amazon-web-services?trk=public_profile_topcard-current-company",
+        "name": "Amazon Web Services (AWS)",
+        "company_id": "amazon-web-services"
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/rohan-j-patel",
+    "people_also_viewed": [
+        {
+            "profile_link": "https://www.linkedin.com/in/jayaramp1?trk=public_profile_browsemap-profile",
+            "name": "Jayaram Puttaswamy",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/xinwei-li?trk=public_profile_browsemap-profile",
+            "name": "Xinwei L.",
+            "about": null,
+            "location": "Sunnyvale, CA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/pengfei-tan?trk=public_profile_browsemap-profile",
+            "name": "Pengfei Tan",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/gauravkumar28?trk=public_profile_browsemap-profile",
+            "name": "Gaurav Kumar",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/raghu-madakkagari?trk=public_profile_browsemap-profile",
+            "name": "Raghavendra Madakkagari",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/itsmanikumar?trk=public_profile_browsemap-profile",
+            "name": "Mani Kumar Adari",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/shwetanshu-rohatgi?trk=public_profile_browsemap-profile",
+            "name": "Shwetanshu Rohatgi",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/ruby-rose?trk=public_profile_browsemap-profile",
+            "name": "Ruby Rose",
+            "about": null,
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/sandeshmanjarekar?trk=public_profile_browsemap-profile",
+            "name": "Sandesh Manjarekar",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/songze-chen-9203aaa8?trk=public_profile_browsemap-profile",
+            "name": "Songze Chen",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "https://in.linkedin.com/in/darshitthesiya?trk=public_profile_browsemap-profile",
+            "name": "Darshit Thesiya",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/javadevjie?trk=public_profile_browsemap-profile",
+            "name": "Jie Chen",
+            "about": null,
+            "location": "Redmond, WA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/apschhokar?trk=public_profile_browsemap-profile",
+            "name": "Ajay Partap Singh Chhokar",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/ayushjaggi?trk=public_profile_browsemap-profile",
+            "name": "Ayush Jaggi",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/shikharmalhotra?trk=public_profile_browsemap-profile",
+            "name": "Shikhar Malhotra",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/yiyiwu51?trk=public_profile_browsemap-profile",
+            "name": "Yiyi Wu",
+            "about": null,
+            "location": "Alexandria, VA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/srinivasanchandramouli?trk=public_profile_browsemap-profile",
+            "name": "Srinivasan Chandramouli",
+            "about": null,
+            "location": "San Jose, CA"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/xiangpengli?trk=public_profile_browsemap-profile",
+            "name": "Xiangpeng Li",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/saikrishb?trk=public_profile_browsemap-profile",
+            "name": "Saikrishnan B.",
+            "about": null,
+            "location": "United States"
+        },
+        {
+            "profile_link": "https://www.linkedin.com/in/shubhpatel108?trk=public_profile_browsemap-profile",
+            "name": "Shubham Patel",
+            "about": null,
+            "location": "Seattle, WA"
+        }
+    ],
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+        {
+            "title": "Georgia Institute of Technology",
+            "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2017",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "-",
+            "start_year": "2013",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/C4D03AQGNpwvXjMcZOA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1526780835966?e=2147483647&v=beta&t=yEL00Hy5NU4AeLkjcCWalfEDDiMw1lsYvMGJWsBMVYA",
+    "courses": [
+        {
+            "subtitle": "-",
+            "title": "Artificial Intelligence for Robotics"
+        },
+        {
+            "subtitle": "-",
+            "title": "Calculus I, II"
+        },
+        {
+            "subtitle": "-",
+            "title": "Computer Architecture"
+        },
+        {
+            "subtitle": "-",
+            "title": "Computer Security"
+        },
+        {
+            "subtitle": "-",
+            "title": "Computer Vision"
+        },
+        {
+            "subtitle": "-",
+            "title": "Data Structures"
+        },
+        {
+            "subtitle": "-",
+            "title": "Design and Analysis of Computer Algorithms"
+        },
+        {
+            "subtitle": "-",
+            "title": "Discrete Structures I, II"
+        },
+        {
+            "subtitle": "-",
+            "title": "Distributed Systems"
+        },
+        {
+            "subtitle": "-",
+            "title": "Internet Technology"
+        },
+        {
+            "subtitle": "-",
+            "title": "Intro to Computer Science"
+        },
+        {
+            "subtitle": "-",
+            "title": "Linear Algebra"
+        },
+        {
+            "subtitle": "-",
+            "title": "Machine Learning"
+        },
+        {
+            "subtitle": "-",
+            "title": "Machine Learning for Trading"
+        },
+        {
+            "subtitle": "-",
+            "title": "Principles of Information and Data Management"
+        },
+        {
+            "subtitle": "-",
+            "title": "Principles of Programming Languages"
+        },
+        {
+            "subtitle": "-",
+            "title": "Reinforcement Learning"
+        },
+        {
+            "subtitle": "-",
+            "title": "Software Analysis & Test"
+        },
+        {
+            "subtitle": "-",
+            "title": "Software Development Process"
+        },
+        {
+            "subtitle": "-",
+            "title": "Software Methodology"
+        },
+        {
+            "subtitle": "-",
+            "title": "Systems Programming"
+        },
+        {
+            "subtitle": "-",
+            "title": "Web Design"
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Oct 2019Expires Sep 2020See credential",
+            "subtitle": "Scaled Agile, Inc.",
+            "title": "Certified SAFe\u00ae 4 Agilist"
+        }
+    ],
+    "followers": 413,
+    "connections": 395,
+    "current_company_company_id": "amazon-web-services",
+    "current_company_name": "Amazon Web Services (AWS)",
+    "projects": [
+        {
+            "title": "Street Number Detection and Classification",
+            "start_date": "Apr 2019",
+            "end_date": "Apr 2019",
+            "description": "Created a street number detection and recognition system to identify and label any sequence of digits visible in a supplied image. Used tensorflow to create the machine learning model for classification, and used computer vision techniques such as an image pyramid, sliding window, and non-maximum suppression for digit detection/localization."
+        },
+        {
+            "title": "OpenAI Gym \u2013 Lunar Lander",
+            "start_date": "Oct 2018",
+            "end_date": "Nov 2018",
+            "description": "Trained an agent to complete the lunar lander task within the OpenAI gym environment using reinforcement learning techniques such as Q-learning and Deep Q Networks (DQN)."
+        },
+        {
+            "title": "Udacity Machine Learning Capstone - State Farm Distracted Driver Detection",
+            "start_date": "Mar 2018",
+            "end_date": "Apr 2018",
+            "description": "Capstone project utilized deep learning to perform image classification for a Kaggle Competition. Created a Convolutional Neural Network in Python using Keras/Tensorflow to detect if drivers are distracted at the wheel. CNN was trained on colored images of drivers performing a variety of actions such as texting, calling, talking, driving safely, etc. The trained model can classify a driver's actions into one of 10 categories which include:c0: safe drivingc1: texting - rightc2: talking on the phone - rightc3: texting - leftc4: talking on the phone - leftc5: operating the radioc6: drinkingc7: reaching behindc8: hair and makeupc9: talking to passengerhttps://www.kaggle.com/c/state-farm-distracted-driver-detection"
+        },
+        {
+            "title": "CrimeWire",
+            "start_date": "Dec 2016",
+            "end_date": "Dec 2016",
+            "description": "Designed and implemented a user oriented web application on AWS using Java, MySQL, HTML/CSS, and JavaScript that allowed users to query, compare and explore crime and relevant data to determine if their city is safe or not."
+        },
+        {
+            "title": "BitTorrent Client ",
+            "start_date": "Nov 2016",
+            "end_date": "Nov 2016",
+            "description": "Created a BitTorrent Client in Java that uses a .torrent file to upload and download a file to and from peer machines."
+        }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/rohan-j-patel",
+    "linkedin_id": "rohan-j-patel",
+    "activity": [
+        {
+            "interaction": "Liked by Rohan Patel",
+            "link": "https://www.linkedin.com/posts/james-boateng-93aaa3231_amazonintern-aws-softwareengineering-activity-7242185709292281858-bEkv",
+            "title": "This summer, I had the amazing opportunity to return to Amazon as a Software Development Engineer (SDE) intern, working with the AWS Payments team\u2026",
+            "img": "https://media.licdn.com/dms/image/v2/D5622AQFWXKcGTxXqQQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1726632831341?e=2147483647&v=beta&t=AjCY71eqFqGGSG-Rz4HZqDx3QGDJXCBCU1bQDF1NVxg",
+            "id": "7242185709292281858"
+        },
+        {
+            "interaction": "Liked by Rohan Patel",
+            "link": "https://www.linkedin.com/posts/kajel-patel-263b90122_excited-to-join-medix-as-a-vaccine-nurse-activity-6783426200535633921-aoTo",
+            "title": "Excited to join Medix as a Vaccine Nurse to finally get NJ vaccinated!",
+            "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+            "id": "6783426200535633921"
+        }
+    ],
+    "linkedin_num_id": "403441871",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+        {
+            "title": "Dean's List",
+            "publication": "Rutgers University - New Brunswick",
+            "date": "2017-05-01T00:00:00.000Z",
+            "description": "Dean's List"
+        },
+        {
+            "title": "Summa Cum Laude",
+            "publication": "Rutgers University - New Brunswick",
+            "date": "2017-05-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Rutgers 2015 Academic Excellence Award",
+            "publication": "Rutgers University - New Brunswick",
+            "date": "2015-05-01T00:00:00.000Z",
+            "description": "This award is given by the university to the top 10% of sophomores at Rutgers based on GPA performance in their respective schools."
+        }
+    ],
+    "similar_profiles": [
+        {
+            "url": "https://www.linkedin.com/in/jayaramp1",
+            "name": "Jayaram Puttaswamy",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/jayaramp1"
+        },
+        {
+            "url": "https://www.linkedin.com/in/xinwei-li",
+            "name": "Xinwei L.",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/xinwei-li"
+        },
+        {
+            "url": "https://www.linkedin.com/in/pengfei-tan",
+            "name": "Pengfei Tan",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/pengfei-tan"
+        },
+        {
+            "url": "https://www.linkedin.com/in/gauravkumar28",
+            "name": "Gaurav Kumar",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/gauravkumar28"
+        },
+        {
+            "url": "https://www.linkedin.com/in/raghu-madakkagari",
+            "name": "Raghavendra Madakkagari",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/raghu-madakkagari"
+        },
+        {
+            "url": "https://www.linkedin.com/in/itsmanikumar",
+            "name": "Mani Kumar Adari",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/itsmanikumar"
+        },
+        {
+            "url": "https://www.linkedin.com/in/shwetanshu-rohatgi",
+            "name": "Shwetanshu Rohatgi",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/shwetanshu-rohatgi"
+        },
+        {
+            "url": "https://www.linkedin.com/in/ruby-rose",
+            "name": "Ruby Rose",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/ruby-rose"
+        },
+        {
+            "url": "https://www.linkedin.com/in/sandeshmanjarekar",
+            "name": "Sandesh Manjarekar",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/sandeshmanjarekar"
+        },
+        {
+            "url": "https://www.linkedin.com/in/songze-chen-9203aaa8",
+            "name": "Songze Chen",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/songze-chen-9203aaa8"
+        },
+        {
+            "url": "https://in.linkedin.com/in/darshitthesiya",
+            "name": "Darshit Thesiya",
+            "title": null,
+            "url_text": "https://in.linkedin.com/in/darshitthesiya"
+        },
+        {
+            "url": "https://www.linkedin.com/in/javadevjie",
+            "name": "Jie Chen",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/javadevjie"
+        },
+        {
+            "url": "https://www.linkedin.com/in/apschhokar",
+            "name": "Ajay Partap Singh Chhokar",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/apschhokar"
+        },
+        {
+            "url": "https://www.linkedin.com/in/ayushjaggi",
+            "name": "Ayush Jaggi",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/ayushjaggi"
+        },
+        {
+            "url": "https://www.linkedin.com/in/shikharmalhotra",
+            "name": "Shikhar Malhotra",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/shikharmalhotra"
+        },
+        {
+            "url": "https://www.linkedin.com/in/yiyiwu51",
+            "name": "Yiyi Wu",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/yiyiwu51"
+        },
+        {
+            "url": "https://www.linkedin.com/in/srinivasanchandramouli",
+            "name": "Srinivasan Chandramouli",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/srinivasanchandramouli"
+        },
+        {
+            "url": "https://www.linkedin.com/in/xiangpengli",
+            "name": "Xiangpeng Li",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/xiangpengli"
+        },
+        {
+            "url": "https://www.linkedin.com/in/saikrishb",
+            "name": "Saikrishnan B.",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/saikrishb"
+        },
+        {
+            "url": "https://www.linkedin.com/in/shubhpatel108",
+            "name": "Shubham Patel",
+            "title": null,
+            "url_text": "https://www.linkedin.com/in/shubhpatel108"
+        }
+    ],
+    "default_avatar": false,
+    "timestamp": "2025-01-26T19:03:19.415Z",
+    "input": {
+        "url": "https://www.linkedin.com/in/rohan-j-patel"
+    }
+}
