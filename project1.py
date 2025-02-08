@@ -58,7 +58,12 @@ with open("names.txt", "r", encoding="utf-8") as file2:
             "position": position,
             "about": about
         })
-    
-    for profile in profiles:
-        prompt = f"Generate a networking email to {profile['name']}, who works at {profile['company']} as {profile['position']}. {profile['name']} earned their degree, {profile['degree']}, from {profile['university']}. Their About section is: {profile['about']}. Mention that I am interested in learning more about their work and connecting over shared interests in software engineering. Keep the email polite, engaging, and professional."
-        print(prompt)
+
+    with open("prompts.txt", "w", encoding="utf-8") as file3:
+        count = 0
+        for profile in profiles:
+            if count == 0:
+                count += 1
+                continue
+            prompt = f"Generate a networking email to {profile['name']}, who works at {profile['company']} as {profile['position']}. {profile['name']} earned their degree, {profile['degree']}, from {profile['university']}. Their About section is: {profile['about']}. Mention that I am interested in learning more about their work and connecting over shared interests in software engineering. Keep the email polite, engaging, and professional."
+            file3.write(prompt + "\n")
