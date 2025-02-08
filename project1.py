@@ -32,5 +32,34 @@ with open("names.txt", "w", encoding="utf-8") as file:
         if about == "":
             about = "NoField"
 
-        print(about)
-        file.write("| " + school + "| " + degree + "| " + position + "| " + about + "\n")      
+        file.write("| " + school + "| " + degree + "| " + position + "| " + about + "\n")     
+
+with open("names.txt", "r", encoding="utf-8") as file2:
+    lines = file2.readlines()
+
+    profiles = []
+    for line in lines:
+        fields = line.strip().split("|")
+        
+        name = fields[0] if len(fields) > 0 and fields[0] != "NoField" else "Unknown"
+        location = fields[1] if len(fields) > 1 and fields[1] != "NoField" else "Unknown"
+        company = fields[2] if len(fields) > 2 and fields[2] != "NoField" else "Unknown"
+        university = fields[3] if len(fields) > 3 and fields[3] != "NoField" else "Unknown"
+        degree = fields[4] if len(fields) > 4 and fields[4] != "NoField" else "Unknown"
+        position = fields[5] if len(fields) > 5 and fields[5] != "NoField" else "Unknown"
+        about = fields[6] if len(fields) > 6 and fields[6] != "NoField" else "NoAbout"
+
+        profiles.append({
+            "name": name,
+            "location": location,
+            "company": company,
+            "university": university,
+            "degree": degree,
+            "position": position,
+            "about": about
+        })
+
+    # Print extracted data
+    for profile in profiles:
+        print(profile)
+    
