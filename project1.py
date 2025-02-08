@@ -10,32 +10,27 @@ with open("names.txt", "w", encoding="utf-8") as file:
         city = line.get("city", None)
         company = line.get("current_company", "")
         if company != "":
-            company = company.get("name", "NoCompany")
+            company = company.get("name", "NoField")
 
         if name is None:
             continue
         file.write(name + "| " + city + "| " + company)
 
         #school name and degree
-        school = line.get("educations_details", "NoEducation")
-        education_details = line.get("education", "NoEducation")
+        school = line.get("educations_details", "NoField")
+        education_details = line.get("education", "NoField")
 
         if education_details == None:
-            education_details = "NoEducation"
+            education_details = "NoField"
         else:
-            degree = education_details[0].get("degree", "NoDegree")
+            degree = education_details[0].get("degree", "NoField")
 
         about = line.get("about", "")
         position = line.get("position", "")
         if position == "":
-            position = "NoPosition"
+            position = "NoField"
         if about == "":
-            about = "NoAbout"
+            about = "NoField"
 
         print(about)
         file.write("| " + school + "| " + degree + "| " + position + "| " + about + "\n")      
-        
-        
-
-# with open("output.txt", "w", encoding="utf-8") as file:
-#     json.dump(random_entry, file, indent=4)
