@@ -1,303 +1,303 @@
 name | city | company | college | degree | position | about 
-Kshitij Shah| Newark, New Jersey, United States| Audible| Rutgers University-New Brunswick| Master of Science (MS)| Software Engineer II (AI/ML) at Audible
-Michael Weber, P.E.| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| Master of Science (M.S.)| Software Development Engineer II at Amazon Web Services (AWS)
-Sahil Karkhanis| Bellevue, Washington, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Gabriela Cuevas| United States| Amazon Web Services (AWS)| Rutgers University| Bachelor's degree| SDE @ AWS
-Jacob Brown| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Engineer AWS Security
-Zheyuan Cheng| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition
-Veera Sai Teja Lingam| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Jia Jiao| Bridgewater, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Hao Wu| Seattle, Washington, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Michael Melchione| Hoboken, New Jersey, United States| Audible| Rutgers, The State University of New Jersey-New Brunswick| BS| Software Development Engineer at Audible
-Aryan Dornala| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Development Engineer @AWS
-Vince Xie| Princeton, New Jersey, United States| Amazon| Rutgers University-New Brunswick| Bachelor of Science - BS| Sr. Software Development Engineer at Amazon
-Qiang Tu| Greater Seattle Area| Amazon| NoEducation| Bachelor of Science - BS| NoPosition
-Viraj Patel| New York City Metropolitan Area| Amazon| Georgia Institute of Technology| NoDegree| NoPosition
-SIBO WANG| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Michael Berry| Bellevue, Washington, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Casper Tortella| Greater Philadelphia| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Raqib Quyyum| New Brunswick, New Jersey, United States| NoCompany| NoEducation| NoDegree| NoPosition
-Johnny Campbell| Dublin, County Dublin, Ireland| SocialTalent| University College Dublin| NoDegree| NoPosition
-Aditya Geria| New York City Metropolitan Area| Prime Video & Amazon MGM Studios| Rutgers University-New Brunswick| NoDegree| NoPosition
-Vincent Ruan| New York City Metropolitan Area| Amazon| New York University| NoDegree| NoPosition
-Andrew McKinney| New York City Metropolitan Area| Amazon| Rutgers University| Computer Science| SWE at Amazon
-Hiren P.| New York City Metropolitan Area| Amazon| Boston University| NoDegree| NoPosition
-Brian Turner| Jersey City, New Jersey, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-John Bartos| New York City Metropolitan Area| Twitch| Rutgers University-New Brunswick| NoDegree| NoPosition
-Cheng C.| Greater Seattle Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Steve Skladany| Alexandria, Virginia, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Jianoula (Yianna) Papadakis Kantos| West Springfield, Massachusetts, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition
-Daniel Rogozenski| Arlington, Virginia, United States| Amazon| Rutgers University| Bachelor of Science - BS| Software Development Engineer @ Amazon
-George Fu| New York, New York, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Sarah Law| New York City Metropolitan Area| Audible| Rutgers University| Computer Science and Mathematics| Software Developer Engineer at Audible
-Aidan M.| Greater Philadelphia| NoCompany| Rutgers University| Bachelor of Science - BS| Software Engineer 2 at Amazon
-Michael Cummings III, MLER| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Kristen Wong| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Jeff Rabinowitz| West Orange, New Jersey, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Ankeet Parikh| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Irina Reznik| New York City Metropolitan Area| Amazon Web Services (AWS)| Pace University - Lubin School of Business| NoDegree| NoPosition
-Hou Yi| Edison, New Jersey, United States| Amazon| Rutgers University-New Brunswick| Master of Science (MS)| Senior SDE at Amazon
-Claire (Xiaoqin) Zou| Colts Neck, New Jersey, United States| Amazon Web Services (AWS)| Virgina Tech| NoDegree| NoPosition
-Paul-Anthony Dudzinski| New York, New York, United States| Amazon| Stevens Institute of Technology| NoDegree| NoPosition
-Joseph Kennedy| Simsbury, Connecticut, United States| Ensign-Bickford Aerospace & Defense Company (EBAD)| Penn State Smeal MBA Program| NoDegree| NoPosition
-Yiyun Su| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| Master's degree| Software Engineer at Amazon AI | AWS Bedrock
-Joseph K.| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor's degree| Software Engineer
-Olaolu Aina| Piscataway, New Jersey, United States| Amazon| Rutgers University| Bachelor's degree| Computer Science Major | Innovator | Problem Solver
-Ka Ho Chan| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| Bachelor's degree| NoPosition
-Praveen A.| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Xiaoxuan Li| Bellevue, Washington, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Andrew Marfitsin| Boston, Massachusetts, United States| Audible| Rutgers University-New Brunswick| Bachelor of Science - BS| Software Development Engineer II at Audible, Inc.
-Devvrat Patel| Iselin, New Jersey, United States| Amazon| Rutgers University| Bachelor of Science - BS| NoPosition
-Andrew Walker| United States| Self-employed| Rutgers University| Bachelor's degree| Full-Stack Developer
-Evan LeCompte| Boston, Massachusetts, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Gustavo Flores| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition
-Divyesh Nemam Baskaran| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Engineering - BE| SDE @ Amazon | ECE + CS @ Rutgers University
-Shreyas Bhise| Seattle, Washington, United States| Amazon| Rutgers University| Bachelor's degree| SDE2 at Amazon
-Rohit Mittal| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Pathik J.| New York City Metropolitan Area| Amazon| Georgia Institute of Technology| NoDegree| NoPosition
-Dakota Clark-Singh| New York, New York, United States| Amazon Web Services (AWS)| Boston University| NoDegree| NoPosition
-Guy Levy| Westfield, New Jersey, United States| NoCompany| NoEducation| NoDegree| NoPosition
-Chunnam (Albert) Yu| Monmouth Junction, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science (BS)| Software Development Engineer at Amazon Web Services (AWS)
-Gabriel Iosif| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science (BS)| NoPosition
-Kevin Anbarserri| New York City Metropolitan Area| Amazon| University of Illinois at Urbana-Champaign| NoDegree| NoPosition
-David Dong| New York City Metropolitan Area| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Sudipt Kapadia| New York City Metropolitan Area| NoCompany| NoEducation| NoDegree| NoPosition
-Arjun Bedi| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Sang Lin| Seattle, Washington, United States| Amazon Web Services| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Vincent Taylor| New York City Metropolitan Area| Amazon Web Services (AWS) Datazone| Rutgers University–New Brunswick| NoDegree| NoPosition
-Joseph (JP) Edralin| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Scott Stone| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Sylvia Geng| Seattle, Washington, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Connor H.| Seattle, Washington, United States| NoCompany| NoEducation| NoDegree| NoPosition
-Kevin M.| New York City Metropolitan Area| NoCompany| NoEducation| NoDegree| NoPosition
-Viney Kumar| Fremont, California, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Bhavik Patel| Jersey City, New Jersey, United States| Audible| Rutgers University-New Brunswick| NoDegree| NoPosition
-Abishek Mankar| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| SDE II at Amazon - Fashion
-Amit Rahalkar| Cary, North Carolina, United States| Amazon| Columbia University in the City of New York| NoDegree| NoPosition
-Michael Lin| Nashville Metropolitan Area| NoCompany| NoEducation| NoDegree| NoPosition
-Elie Baaklini| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor's degree| Software Development Engineer II at Amazon
-Wangchao Sheng| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| Master of Arts (MA)| Software Engineer at Amazon FreeRTOS
-Aarav M.| New York City Metropolitan Area| Amazon| Rutgers University| Master of Arts (MA)| NoPosition
-Akshat Parmar| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Shreepad Patil| Jersey City, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Satvik G.| New York, New York, United States| NoCompany| NoEducation| NoDegree| NoPosition
-Daniel Parks| Greater Seattle Area| Amazon| Rutgers University| Bachelor’s Degree| Software Development Engineer II at Amazon
-Daiyan Alamgir| New York, New York, United States| NoCompany| NoEducation| Bachelor’s Degree| NoPosition
-Nasir Memon| Piscataway, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Emmanuel Ankrah| Easton, Pennsylvania, United States| Audible| Rutgers University| NoDegree| NoPosition
-Priya Padmanaban| Seattle, Washington, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Mili Doshi Patel| New York, New York, United States| Amazon| Duke University - The Fuqua School of Business| NoDegree| NoPosition
-Nui Chan| New York City Metropolitan Area| Amazon Web Services| Columbia Engineering| NoDegree| NoPosition
-Zoe Schack| Westfield, New Jersey, United States| project well-z| Villanova University| Intended Majors: Political Science, English; Minor in Spanish| Honors Freshman @ Villanova University
-Dat Nguyen| New York City Metropolitan Area| Amazon| Stevens Institute of Technology| Master of Science (M.S.)| Senior Application Engineer III at Amazon
-Joseph Redling-Pace| Little Ferry, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Rohan Patel| New York City Metropolitan Area| Amazon Web Services (AWS)| Georgia Institute of Technology| NoDegree| NoPosition
-Wayne Tam| United States| Amazon| Rutgers University| Bachelor of Science - BS| Software Engineer at Amazon
-Nikhil Kotta| United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Francis Joe| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Michael Barbone| New York, New York, United States| Amazon Web Services (AWS)| Columbia Engineering| Executive Education Certification| Front End Engineer at Amazon Web Services (AWS)
-Ruiheng Yin| Greater Seattle Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Umar Sheikh| New York City Metropolitan Area| Amazon Web Services (AWS)| Johns Hopkins Whiting School of Engineering| NoDegree| NoPosition
-Eric Bronner| Bloomfield, New Jersey, United States| Audible| Rutgers University| NoDegree| NoPosition
-Sharath Chandra Sreeramoju| New York, New York, United States| Amazon| Birla Institute of Technology and Science| Bachelor's Degree| Engineering Manager @Amazon
-Robert J. Borowski| New York, New York, United States| Audible| Pace University| NoDegree| NoPosition
-Halil Ibrahim Gultekin| United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Xinhe G.| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Malav Doshi| New Brunswick, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Computer Science| Software Developer @ Amazon Web Services (AWS) | Computer Science
-Rodrigo P.| New York City Metropolitan Area| Audible, Inc.| Rutgers University| Bachelor of Science (B.S.)| Software Development Engineer at Audible, Inc.
-Hong Zhao| San Francisco Bay Area| NoCompany| Georgia Institute of Technology| NoDegree| NoPosition
-Lucent Fong| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| SDE at AWS
-Zaina Merchant| Edison, New Jersey, United States| Rutgers School of Engineering| Rutgers University–New Brunswick| Bachelor of Science - BS| Environmental Engineering Student at Rutgers University | James J. Slade Scholar
-Steve G.| San Luis Obispo, California, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| Bachelor's degree| Software Development Manager
-Pranjay Kumar| New York, New York, United States| LatAmLinks| NYU Stern School of Business| NoDegree| NoPosition
-Priyesh Shah| Seattle, Washington, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| Bachelor of Science (B.S)| Software Development Engineer at Amazon
-Jack Iu| New York, New York, United States| NoCompany| NoEducation| Bachelor of Science (B.S)| NoPosition
-Parishad Karimi| United States| Amazon| Rutgers University| Doctor of Philosophy (PhD)| Software Development Engineer
-Animesh S.| Seattle, Washington, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Anthony Liguori| Bainbridge Island, Washington, United States| Amazon| The University of Texas at Austin| NoDegree| NoPosition
-Anirudh Balaji| Seattle, Washington, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Xiaokang Qin| East Brunswick, New Jersey, United States| Audible, Inc.| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Hammad I.| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Sam Lee| Rutherford, New Jersey, United States| 아마존| NoEducation| NoDegree| NoPosition
-Smeet V.| New York City Metropolitan Area| Amazon| New Jersey Institute of Technology| Master's Degree| Data Scientist at Amazon
-Ramanan Natarajan| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Master's degree| Senior Software Engineer at Amazon Web Services (AWS)
-Alex Garcia| United States| Amazon Web Services (AWS)| Rutgers University| Computer Science| Software Engineer @ AWS Signer
-Zhengjuan (Jenny) Fan| Mercer Island, Washington, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Tingyu Chen| Jersey City, New Jersey, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Seth McCann| Santa Clara, California, United States| Amazon| Rutgers University| Bachelor's degree| Software Development Engineer @ Amazon
-Aashna Mehta| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-June Johnnie C.| New York City Metropolitan Area| Amazon Web Services (AWS)| Columbia Business School| Master of Business Administration - MBA| Generative AI Partnerships | GenAI Partnerships & Strategy
-Matt Medeiros| New York, New York, United States| NoCompany| NoEducation| Master of Business Administration - MBA| NoPosition
-Ed Pozarycki| New York City Metropolitan Area| NoCompany| NoEducation| Master of Business Administration - MBA| NoPosition
-Zhiqi Yang| United States| Amazon| Rutgers University| NoDegree| NoPosition
-O'Niel McLeod| Jersey City, New Jersey, United States| Amazon| Rutgers University| NoDegree| TM1 Application Developer
-Allen Zhang| New York, New York, United States| Amazon| Rutgers University| Bachelor of Science - BS| SDE II at Amazon
-DA XU| Piscataway, New Jersey, United States| Bloomberg LP| Rutgers University-New Brunswick| NoDegree| NoPosition
-Jason Dai| Seattle, Washington, United States| Amazon| General Assembly| NoDegree| NoPosition
-Dana Sanfilippo-McGovern| New York, New York, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Justin Huh| Los Angeles, California, United States| Amazon| Rutgers University| Bachelor of Science - BS| Software Developer 2 @ Amazon | B.S. Computer Science, B.A. Cognitive Science
-Morgan McCabe| Seattle, Washington, United States| Amazon| Rutgers University| Bachelor of Arts - BA| Software Development Engineer at Amazon Merch on Demand
-Jay Kim| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Arts - BA| Software Development Engineer at Amazon
-Nicholas Clegg| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition
-David Lazaar| New York City Metropolitan Area| Audible, Inc.| Rutgers University| NoDegree| NoPosition
-Paul Chang| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Krishna Anantha Padmanabhan| Seattle, Washington, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Rishab Chawla| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Loriana Ayinde| Washington DC-Baltimore Area| Amazon Web Services (AWS)| ELVTR| Certificate of Completion| Developer Experience Engineer | AWS Amplify
-Raghvender Arni| United States| NoCompany| NoEducation| Certificate of Completion| NoPosition
-Kostantinos Morfesis| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Jan Dean Catarata| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition
-Yuyang He| New York City Metropolitan Area| Amazon Web Services| Georgia Institute of Technology| NoDegree| NoPosition
-Kushal Doshi| New Brunswick, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition
-James Downing| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor's degree| Software Development Engineer II at Amazon
-Junling Sun| Beaverton, Oregon, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Brian Sung| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science (BS)| SDM at AWS Silk
-Nicolas Borges| Jersey City, New Jersey, United States| Amazon| Rutgers University| Bachelor of Arts - BA| Software Developer @ AWS
-David Tian| Fords, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Yaniv M.| United States| Audible, Inc.| Rutgers University-New Brunswick| Electrical and Computer Engineer| Software Development Engineer
-Zhaolei Wang| United States| Amazon Web Services (AWS)| Rutgers University| Master's degree| SDE II at AWS
-Nikunj Patel| Greater Seattle Area| Amazon| Rutgers University| B.S.| Senior Data Engineering Manager - Amazon Devices and Services Finance
-Joan Shen| Cliffside Park, New Jersey, United States| NoCompany| NoEducation| B.S.| NoPosition
-Yupeng Liu| Matawan, New Jersey, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Arth Desai| United States| Amazon| Rutgers University| NoDegree| NoPosition
-Mayur Patel| Edison, New Jersey, United States| Amazon| Rutgers | School of Graduate Studies| Master of Science - MS| Software Engineer at Amazon
-Monika Bhagchandani| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Stephen Kane| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Tegh Aiden| Washington DC-Baltimore Area| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Development Engineer at Amazon Web Services
-Ashish Podduturi| Bayonne, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Master of Business and Science| AWS CodeWhisperer - Software Development Engineer
-Samuel Minkin| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| Software Engineer at Amazon
-Jingyuan Li| Greater Seattle Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Deep Lokhande| New Brunswick, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Jiahui Shan| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Harika Matta| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition
-Raj Shah| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition
-Vikram Narayanan Ravi Narayanan| Fremont, California, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| Master of Science| Software Development Engineer II at AWS
-Jonathan Luu| Edison, New Jersey, United States| Amazon| Rutgers University| Bachelor of Arts - BA| Operations manager
-Michael Shur| Seattle, Washington, United States| Amazon Web Services (AWS)| University of Pennsylvania| NoDegree| NoPosition
-Elijah Ongoco| Somerset, New Jersey, United States| Audible| Rutgers University| Bachelor of Science - BS| Software Engineer
-Priyanka Kale| Greater Seattle Area| Twilio| Rutgers University| NoDegree| NoPosition
-Chun Yeung| Spring Valley, New York, United States| Audible, Inc.| Rutgers University| NoDegree| Software Development Engineer at Audible, Inc.
-Aarjav Patel| Monroe, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Mohammed Rupani| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Harsh Rajkumar| San Francisco, California, United States| Amazon| Rutgers University| Master of Science - MS| Software Engineer @ Amazon
-Benjamin Lee| River Edge, New Jersey, United States| Amazon| Rutgers University| Bachelor of Arts - BA| Software Development Engineer at Amazon
-Deeptanshu Singh| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Christopher Votta| Verona, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Nairuti Shah| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Master of Science - MS| Software Development Engineer @ AWS
-Abhi Verma| Hoboken, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition
-Nitin Gupta| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Paul Corotan| Hackensack, New Jersey, United States| NoCompany| NoEducation| NoDegree| NoPosition
-Rasagna Veeramallu| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition
-Samip Parikh| San Francisco Bay Area| NoCompany| NoEducation| NoDegree| NoPosition
-Greg Fuerte| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Mike James| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Andrew Ryon| New York, New York, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Geet Massand| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Tej S.| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Jason Mustafa| Greater Seattle Area| Amazon Web Services (AWS)| Rutgers University-New Brunswick| Bachelor's degree| Software Engineer II @ AWS ☁️
-Joshua Ross| Hoboken, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Development Engineer II for AWS Bedrock
-Jason Baik| United States| Amazon Global Robotics| Rutgers University| NoDegree| NoPosition
-Gloria Leung| San Francisco Bay Area| Amazon Lab126| Rutgers University-New Brunswick| NoDegree| NoPosition
-Masood K.| Arlington, Virginia, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Development Engineer II at Amazon Web Services (AWS)
-Jiajian (Jay) Wu| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| NoPosition
-Jie Huang| North Brunswick, New Jersey, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Paul Batchis| Edison, New Jersey, United States| Amazon.com| Rutgers University| M.S.| Software Development Engineer at Amazon.com
-Alice Ye| Seattle, Washington, United States| Amazon| Rutgers University| Master of Science - MS| SDE at Amazon
-Yang Wang| Bellevue, Washington, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| PhD| Senior SDE at Amazon
-Joseph George| Edison, New Jersey, United States| Kiva| Rutgers University–New Brunswick| Computer Science, Business Analytics, Minor in Statistics| CS + Business Analytics @ Rutgers
-Jeffrey Huang| Chatham, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition
-Priyanka Dhingra| Greater Seattle Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Mike Triano| New York City Metropolitan Area| Audible| Rutgers University-New Brunswick| NoDegree| NoPosition
-Mayank .| New Brunswick, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| Master of Science (M.S.)| Software Engineer
-Dante Torello| Weehawken, New Jersey, United States| Amazon| Rutgers University| Bachelor's degree| Software Engineer at Amazon
-Michael Z.| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| Bachelor of Science (BS)| Software Engineer
-Xulai Jiang| Jersey City, New Jersey, United States| Amazon Web Services (AWS)| University of Southern California| NoDegree| NoPosition
-Suraj Komarla Amaranarayana| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Masters in Science| Software Development Engineer at AWS
-Ryhan Moghe| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| Software Engineer II @ Amazon
-Jared C.| New York, New York, United States| Amazon| Rutgers University| Bachelor of Science - BS| Rutgers University '23 | Amazon Flex SDE
-Tianyi Yu| Park Ridge, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Guolei Chen| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Master's degree| Software Development Engineer at AWS IoT (Amazon)
-Andrew King| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Marvin Gersho| Short Hills, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Milap Shah| United States| Amazon| Rutgers University-New Brunswick| Bachelor’s Degree| Software Development Engineer at Amazon
-William Freitag| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-A. Vaghefi| Seattle, Washington, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Jack Chiu| United States| Amazon Robotics| Rutgers University-New Brunswick| NoDegree| NoPosition
-Prajna K.| New York City Metropolitan Area| Audible| Rutgers University| NoDegree| NoPosition
-Zhilmil Dhillon| Seattle, Washington, United States| Amazon| Rutgers University-New Brunswick| Master's degree| Sr Software Development Engineer at Amazon
-Swetha Angara| New York City Metropolitan Area| Audible| University of Illinois Urbana-Champaign| Master of Computer Science| Software Engineer at Audible
-Mohamed S.| North Brunswick, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition
-David Acevedo| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Yixin Zhou| New York City Metropolitan Area| Amazon| Syracuse University| NoDegree| NoPosition
-Hanqing Zhao| United States| Amazon| Rutgers University| Bachelor of Science - BS| Software Development Engineer
-Sunny Wong, Ph.D.| Greater Seattle Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-John Tabor| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Sooho Lim| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor's| Software Dev Engineer @ AWS
-Kevin Cherry| Robesonia, Pennsylvania, United States| Amazon Fulfillment Technologies & Robotics| Penn State University| IST| Engineering Lead at Amazon MSP
-Ziqiu Zhu| Atlanta, Georgia, United States| Amazon| The George Washington University| NoDegree| NoPosition
-Will Yang| Jersey City, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Anne He| Seattle, Washington, United States| Amazon| Carnegie Mellon University| NoDegree| NoPosition
-Sanjay Goyal| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Eshaan Gandhi| New York, New York, United States| Audible| Rutgers University| Bachelor of Science - BS and Bachelor of Arts - BA| Software Engineer at Audible, Inc
-Rana Dutt| Morganville, New Jersey, United States| NoCompany| NoEducation| Bachelor of Science - BS and Bachelor of Arts - BA| NoPosition
-Katie Wilcox| New York City Metropolitan Area| Audible| Rutgers University| NoDegree| NoPosition
-Raymond Yoo| United States| Amazon| Rutgers University| Bachelor of Science - BS| Machine Learning Engineer @ Amazon
-James Montagne| United States| Audible, Inc.| Rutgers University-New Brunswick| NoDegree| NoPosition
-Scott Katzelnick| New York City Metropolitan Area| Amazon| Northeastern University| NoDegree| Front End Engineer II @ Amazon | Full-Stack Software Developer
-Junlin Lu| McLean, Virginia, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Kaifei Lei| United States| Amazon| Rutgers University| NoDegree| NoPosition
-Craig P.| Brooklyn, New York, United States| Amazon Web Services (AWS)| Northeastern University| Master's degree| Machine Learning/Software Engineer
-Andrew Mathew| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| Software Development Engineer at Amazon
-Yu Zheng| Jersey City, New Jersey, United States| Audible| Rutgers University| NoDegree| NoPosition
-David Breuer| Boston, Massachusetts, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Hao Zeng| New York, New York, United States| Amazon| Stony Brook University| NoDegree| NoPosition
-Kevin Lin| Allen, Texas, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Fady Besada| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Evanthia (Anthi) Tapiri| New York, New York, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Karan Kadaru| Old Bridge, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Jeff Y.| Seattle, Washington, United States| Amazon| Rutgers University-New Brunswick| Master’s Degree| SDE-III @Amazon
-Todd Gruet| Charlotte, North Carolina, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Fan Jiang| New York, New York, United States| Amazon| Tsinghua University| NoDegree| NoPosition
-Priya C.| New York, New York, United States| NoCompany| NoEducation| NoDegree| NoPosition
-Joshua Yu, MBA| New Brunswick, New Jersey, United States| Amazon Web Services (AWS)| Rutgers Business School| Master of Business Administration - MBA| Software Engineer @ Amazon
-Karan Bheda| Jersey City, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Yue Wu| Washington DC-Baltimore Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Phurushotham Shekar| Vancouver, British Columbia, Canada| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Bailey Chen| Leonia, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Jingsong Yuan| Seattle, Washington, United States| Amazon| Rutgers University| Master’s Degree| Software Development Engineer
-Mengzhu Li| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Srikant Viswanath| Green Bay, Wisconsin, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Justin Chen| New York City Metropolitan Area| Amazon| Marlboro High School| NoDegree| Software Developer at Amazon
-Vardhany Darbha| Greater Seattle Area| Amazon| Rutgers University| NoDegree| NoPosition
-Ilya Samoylov| Ridgewood, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Pawel Szczurko| New York City Metropolitan Area| Amazon| NoEducation| NoDegree| NoPosition
-Mathew Varghese| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Alison Wong| East Brunswick, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science (B.S.)| Software Engineer at Amazon Web Services
-Ryan Mclaughlin| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Avni Patel| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition
-Harsh Patel| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| Masters| SDE II @Amazon AWS
-Jason Hunt| New York City Metropolitan Area| Amazon| Georgia Institute of Technology| NoDegree| NoPosition
-Ryan Bandilla| New York, New York, United States| Audible| Rutgers University-New Brunswick| NoDegree| NoPosition
-Kevin Shanley| Denver Metropolitan Area| Amazon Web Services (AWS)| NoEducation| NoDegree| Principal Solutions Architect, AWS Identity
-Scott B.| New York City Metropolitan Area| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition
-Vachagan Melikian| New Brunswick, New Jersey, United States| Twitch| Rutgers University| Bachelor of Science - BS| Incoming SWE Intern @ Twitch | CS + Cog Sci + Ling + History @ Rutgers | O4U '24 | Prev SWE @ Fidelity Investments
-Howard A. A. Smith| Shrewsbury, Massachusetts, United States| Amazon Global Robotics| Georgia State University| Doctor of Philosophy - PhD| Statistician/Mathematician/Data Scientist/ Educator
-Samantha Scalese| Egg Harbor, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Arts - BA| Software Engineer @ AWS
-Joshua O.| Jersey City, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Parth Parikh| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| Bachelor's Degree| Senior Software Engineer at Amazon
-Harsh Patel| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Zichen Lao| San Francisco Bay Area| Amazon| University of Pennsylvania| Master's degree| Software Development Engineer
-Daniil G.| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| SDE @ Amazon
-Adit Patel| New York, New York, United States| NoCompany| Rutgers University| NoDegree| NoPosition
-Fernando Geraci| Piscataway, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| Master's Degree| Systems Development Engineer
-Kuo-Wei Chung| Seattle, Washington, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Ishani Ghose| Seattle, Washington, United States| Amazon| Rutgers University| Master of Science - MS| Amazon | MS CS - Rutgers University | Microsoft | Microsoft Research India
-Wei-Chung Cheng| San Francisco Bay Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition
-Andrew Michal| Windham, New Hampshire, United States| NoCompany| NoEducation| NoDegree| NoPosition
-Chao G.| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition
-Brian Lin| Pflugerville, Texas, United States| Amazon| Rutgers University| Computer Engineering & Computer Science| Software Engineer at Amazon
-David Segal| Washington DC-Baltimore Area| Amazon| Rutgers University| Computer Engineering & Computer Science| NoPosition
-Enkai Ji| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition
-Zetao Yu| San Diego, California, United States| Amazon| Duke University| Master of Science - MS| Software Dev Engineer at Amazon
-Sophie Cho| United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Engineer
-Srinivas Mudireddy| Atlanta Metropolitan Area| Amazon| Fuqua School of Business, Duke University| Master of Business Administration (MBA)| Senior Manager - Product Management Tech
+Kshitij Shah| Newark, New Jersey, United States| Audible| Rutgers University-New Brunswick| Master of Science (MS)| Software Engineer II (AI/ML) at Audible| Senior Software Engineer with proven experience in serverless application development, software design, data warehousing, and machine learning. <br>Designed scalable system architectures on the cloud. Implemented ETL pipelines and data analytics solutions.<br>AWS certified machine learning specialist.
+Michael Weber, P.E.| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| Master of Science (M.S.)| Software Development Engineer II at Amazon Web Services (AWS)| Software engineer experienced in building full-stack Java and JavaScript applications with AWS, React, Node.js, and SQL / NoSQL databases. Enthusiastic contributor to the open-source community and co-creator of Kafka Cascade, a message reprocessing and dead letter queue management system for Kafka.<br><br>Find me on GitHub: https://github.com/michaelweberjr
+Sahil Karkhanis| Bellevue, Washington, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| I am currently working in Amazon as a Software Development Engineer. I completed my…
+Gabriela Cuevas| United States| Amazon Web Services (AWS)| Rutgers University| Bachelor's degree| SDE @ AWS| NoAbout
+Jacob Brown| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Engineer AWS Security| Passionate and inquisitive computer scientist with a comprehensive working knowledge of data structures, discrete math and building production-ready solutions balancing performance and security. Plentiful experience in data science, machine learning and software engineering.
+Zheyuan Cheng| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Veera Sai Teja Lingam| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| I believe that to put your heart and soul into creating something amazing, and to have…
+Jia Jiao| Bridgewater, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Hao Wu| Seattle, Washington, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| Educated and motivated software engineer.<br>Excellent interpersonal as well as…
+Michael Melchione| Hoboken, New Jersey, United States| Audible| Rutgers, The State University of New Jersey-New Brunswick| BS| Software Development Engineer at Audible| NoAbout
+Aryan Dornala| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Development Engineer @AWS| NoAbout
+Vince Xie| Princeton, New Jersey, United States| Amazon| Rutgers University-New Brunswick| Bachelor of Science - BS| Sr. Software Development Engineer at Amazon| NoAbout
+Qiang Tu| Greater Seattle Area| Amazon| NoEducation| Bachelor of Science - BS| NoPosition| NoAbout
+Viraj Patel| New York City Metropolitan Area| Amazon| Georgia Institute of Technology| NoDegree| NoPosition| NoAbout
+SIBO WANG| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| NoAbout
+Michael Berry| Bellevue, Washington, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| I'm a data science and engineering leader with experience building, setting strategy for,…
+Casper Tortella| Greater Philadelphia| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| NoAbout
+Raqib Quyyum| New Brunswick, New Jersey, United States| NoCompany| NoEducation| NoDegree| NoPosition| NoAbout
+Johnny Campbell| Dublin, County Dublin, Ireland| SocialTalent| University College Dublin| NoDegree| NoPosition| Along with my business partner, Vince, I founded SocialTalent in 2010 and currently serve…
+Aditya Geria| New York City Metropolitan Area| Prime Video & Amazon MGM Studios| Rutgers University-New Brunswick| NoDegree| NoPosition| SDE @ Amazon working to deliver the best in class LiveTV experience across the industry…
+Vincent Ruan| New York City Metropolitan Area| Amazon| New York University| NoDegree| NoPosition| Programming Languages: Java, Javascript/ES6, C#, HTML/CSS, Node.js, Python<br><br>General…
+Andrew McKinney| New York City Metropolitan Area| Amazon| Rutgers University| Computer Science| SWE at Amazon| I have experience in cloud-based technologies and architectures, full stack.<br><br>No reason to list what coding languages i know anymore because i can (and have) picked up any language I need to on the fly.<br><br>I have worked with AWS and Azure. <br><br>I am always hungry for new opportunities, Ill take a good look at any serious offer sent to  me.<br><br>Github: https://github.com/AndrewMcKinney
+Hiren P.| New York City Metropolitan Area| Amazon| Boston University| NoDegree| NoPosition| Strategic Engineering Leader with extensive experience guiding teams across diverse…
+Brian Turner| Jersey City, New Jersey, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+John Bartos| New York City Metropolitan Area| Twitch| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Cheng C.| Greater Seattle Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Steve Skladany| Alexandria, Virginia, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| Seasoned Full Stack Engineer with a strong foundation in computer science and a unique…
+Jianoula (Yianna) Papadakis Kantos| West Springfield, Massachusetts, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition| Sales and Technical background and 25+ years of industry experience. Manages all aspects…
+Daniel Rogozenski| Arlington, Virginia, United States| Amazon| Rutgers University| Bachelor of Science - BS| Software Development Engineer @ Amazon| NoAbout
+George Fu| New York, New York, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| Hi
+Sarah Law| New York City Metropolitan Area| Audible| Rutgers University| Computer Science and Mathematics| Software Developer Engineer at Audible| NoAbout
+Aidan M.| Greater Philadelphia| NoCompany| Rutgers University| Bachelor of Science - BS| Software Engineer 2 at Amazon| https://AidanMurphey.com/<br>https://GitHub.com/AidansCode<br><br>I am a Software Engineer at Amazon and hold a BS in Computer Science with a 4.0 GPA.<br>I focus mostly in full stack web development, though have experience in many languages and areas of focus.
+Michael Cummings III, MLER| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| Experienced leader with a Master’s in Labor and Employment Relations, specializing in…
+Kristen Wong| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Jeff Rabinowitz| West Orange, New Jersey, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Ankeet Parikh| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| Hi!, I'm currently a Software Development Engineer at Amazon in the Advertising division.…
+Irina Reznik| New York City Metropolitan Area| Amazon Web Services (AWS)| Pace University - Lubin School of Business| NoDegree| NoPosition| NoAbout
+Hou Yi| Edison, New Jersey, United States| Amazon| Rutgers University-New Brunswick| Master of Science (MS)| Senior SDE at Amazon| NoAbout
+Claire (Xiaoqin) Zou| Colts Neck, New Jersey, United States| Amazon Web Services (AWS)| Virgina Tech| NoDegree| NoPosition| Experienced Application Consultant with a demonstrated history of working in the…
+Paul-Anthony Dudzinski| New York, New York, United States| Amazon| Stevens Institute of Technology| NoDegree| NoPosition| I am the kind of leader that feels most comfortable when I have whiteboard marker on my…
+Joseph Kennedy| Simsbury, Connecticut, United States| Ensign-Bickford Aerospace & Defense Company (EBAD)| Penn State Smeal MBA Program| NoDegree| NoPosition| NoAbout
+Yiyun Su| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| Master's degree| Software Engineer at Amazon AI | AWS Bedrock| NoAbout
+Joseph K.| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor's degree| Software Engineer| Software engineer with 2+ years experience shipping and building scalable distributed cloud-native solutions.
+Olaolu Aina| Piscataway, New Jersey, United States| Amazon| Rutgers University| Bachelor's degree| Computer Science Major | Innovator | Problem Solver| I am a senior at Rutgers University. As a Computer Science major, I enjoy making use of software to solve everyday problems.<br><br>The many computer science courses I have taken over my years at Rutgers has shows me code, not as a means to create software, but as a means to solve problems
+Ka Ho Chan| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| Bachelor's degree| NoPosition| NoAbout
+Praveen A.| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| Experience in Information Technology (IT), with expertise in all phases of information…
+Xiaoxuan Li| Bellevue, Washington, United States| Amazon| Rutgers University| NoDegree| NoPosition| Software Development Engineer at Amazon, AWS Rekognition/Textract.
+Andrew Marfitsin| Boston, Massachusetts, United States| Audible| Rutgers University-New Brunswick| Bachelor of Science - BS| Software Development Engineer II at Audible, Inc.| Working on the Audible Android app
+Devvrat Patel| Iselin, New Jersey, United States| Amazon| Rutgers University| Bachelor of Science - BS| NoPosition| NoAbout
+Andrew Walker| United States| Self-employed| Rutgers University| Bachelor's degree| Full-Stack Developer| I'm an Information Technology and Informatics major who has recently graduated from Rutgers University- New Brunswick. During my time at Rutgers I learned Java, HTML, CSS, and SQL. After one of my courses put my knowledge to the test by having me build a mobile app in Unity (programmed in C#) I realized that I wanted to pursue software development as a career. At this time I have published an app on Google Play Store and a website. I'm looking to expand the resources available to me and become part of a competent team. This will allow me to improve and work on bigger and better things. If your values align with mine we can team up and write code that will make an impact.
+Evan LeCompte| Boston, Massachusetts, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| OBJECTIVE: DevOps Engineer or Full-Stack Software Engineer<br><br>Specialties:   Node.JS,…
+Gustavo Flores| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition| Software engineer proficient in Java/Go backend, JS/React frontend and cloud automation…
+Divyesh Nemam Baskaran| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Engineering - BE| SDE @ Amazon | ECE + CS @ Rutgers University| NoAbout
+Shreyas Bhise| Seattle, Washington, United States| Amazon| Rutgers University| Bachelor's degree| SDE2 at Amazon| Hi, my name is Shreyas and I’m a software engineer for Alexa Connected Devices
+Rohit Mittal| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition| Accomplished Product and Technology Leader with over 20 years of extensive…
+Pathik J.| New York City Metropolitan Area| Amazon| Georgia Institute of Technology| NoDegree| NoPosition| NoAbout
+Dakota Clark-Singh| New York, New York, United States| Amazon Web Services (AWS)| Boston University| NoDegree| NoPosition| NoAbout
+Guy Levy| Westfield, New Jersey, United States| NoCompany| NoEducation| NoDegree| NoPosition| NoAbout
+Chunnam (Albert) Yu| Monmouth Junction, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science (BS)| Software Development Engineer at Amazon Web Services (AWS)| NoAbout
+Gabriel Iosif| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science (BS)| NoPosition| Engaging customers by collaborating with AWS Sales, SA, and Partner teams to develop…
+Kevin Anbarserri| New York City Metropolitan Area| Amazon| University of Illinois at Urbana-Champaign| NoDegree| NoPosition| Graduate from Rutgers University with a B.S. degree in Computer Science (May 2019) with…
+David Dong| New York City Metropolitan Area| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Sudipt Kapadia| New York City Metropolitan Area| NoCompany| NoEducation| NoDegree| NoPosition| NoAbout
+Arjun Bedi| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Sang Lin| Seattle, Washington, United States| Amazon Web Services| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Vincent Taylor| New York City Metropolitan Area| Amazon Web Services (AWS) Datazone| Rutgers University–New Brunswick| NoDegree| NoPosition| I am Vincent Taylor, a  Software Engineer with a solid foundation in computer science and…
+Joseph (JP) Edralin| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| Recent Honors College graduate who studied engineering and computer science, interested…
+Scott Stone| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Sylvia Geng| Seattle, Washington, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Connor H.| Seattle, Washington, United States| NoCompany| NoEducation| NoDegree| NoPosition| NoAbout
+Kevin M.| New York City Metropolitan Area| NoCompany| NoEducation| NoDegree| NoPosition| NoAbout
+Viney Kumar| Fremont, California, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Bhavik Patel| Jersey City, New Jersey, United States| Audible| Rutgers University-New Brunswick| NoDegree| NoPosition| Experienced Technology Analyst with a demonstrated history of working in the banking…
+Abishek Mankar| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| SDE II at Amazon - Fashion| NoAbout
+Amit Rahalkar| Cary, North Carolina, United States| Amazon| Columbia University in the City of New York| NoDegree| NoPosition| Thought leader with  vast and proven experience in Investment banking tech and Cloud tech…
+Michael Lin| Nashville Metropolitan Area| NoCompany| NoEducation| NoDegree| NoPosition| - Senior Information Technology Professional with over 21 years of experience in…
+Elie Baaklini| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor's degree| Software Development Engineer II at Amazon| NoAbout
+Wangchao Sheng| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| Master of Arts (MA)| Software Engineer at Amazon FreeRTOS| NoAbout
+Aarav M.| New York City Metropolitan Area| Amazon| Rutgers University| Master of Arts (MA)| NoPosition| Intellectually curious leader, innovator and consumer software guy. I love building…
+Akshat Parmar| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| Creative problem solver experienced in building scalable applications and leading…
+Shreepad Patil| Jersey City, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| Carrying professional work experience of 5+ years in Back-end development, Front-end…
+Satvik G.| New York, New York, United States| NoCompany| NoEducation| NoDegree| NoPosition| NoAbout
+Daniel Parks| Greater Seattle Area| Amazon| Rutgers University| Bachelor’s Degree| Software Development Engineer II at Amazon| Currently, I am a software development engineer level 2 for Amazon eCommerce in Seattle, Washington. I am a graduate of Rutgers University-New Brunswick where I studied computer science and English. I am an Eagle Scout, a Phi Beta Kappa member, have studied abroad in India, and have held jobs in software development, targeted sales content development, and copy editing. I have a diverse skill set that spans programming to creative writing, and I believe that STEM and the liberal arts are inextricably connected and essential to all our lives.
+Daiyan Alamgir| New York, New York, United States| NoCompany| NoEducation| Bachelor’s Degree| NoPosition| NoAbout
+Nasir Memon| Piscataway, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Emmanuel Ankrah| Easton, Pennsylvania, United States| Audible| Rutgers University| NoDegree| NoPosition| Growing up, I have always loved computers and all things tech. Even today, that love has…
+Priya Padmanaban| Seattle, Washington, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Mili Doshi Patel| New York, New York, United States| Amazon| Duke University - The Fuqua School of Business| NoDegree| NoPosition| I am responsible for the development of new shopping experiences with Amazon worldwide. I…
+Nui Chan| New York City Metropolitan Area| Amazon Web Services| Columbia Engineering| NoDegree| NoPosition| NoAbout
+Zoe Schack| Westfield, New Jersey, United States| project well-z| Villanova University| Intended Majors: Political Science, English; Minor in Spanish| Honors Freshman @ Villanova University| Highly motivated and outgoing student passionate about utilizing policy and media as catalysts for positive change. Interested in politics, journalism, English, and Spanish. Experience conducting academic research in the social sciences, collaborating with peers on a local, national, and international level, and spearheading new initiatives in a range of organizations.
+Dat Nguyen| New York City Metropolitan Area| Amazon| Stevens Institute of Technology| Master of Science (M.S.)| Senior Application Engineer III at Amazon| A highly motivated and diligent engineer with 7+ years of experience in project management, product development and implementations of IBM Planning Analytics (formerly known as IBM Cognos TM1) and Predictive Analytics solutions. Able to identify, assess, and communicate complex business problems for clients across industries to deliver efficient and timely design and implementation of analytics solutions. Passionate about the opportunity to create solutions that enable clients to make smarter and data-driven decisions.
+Joseph Redling-Pace| Little Ferry, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition| Interest in Machine Learning, Artificial Intelligence, and Natural Language Processing…
+Rohan Patel| New York City Metropolitan Area| Amazon Web Services (AWS)| Georgia Institute of Technology| NoDegree| NoPosition| Experienced Senior Software Engineer with a demonstrated history of working in the…
+Wayne Tam| United States| Amazon| Rutgers University| Bachelor of Science - BS| Software Engineer at Amazon| NoAbout
+Nikhil Kotta| United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| Hello! My name is Sainikhil Kotta and I currently live Princeton Junction, NJ. <br><br>I…
+Francis Joe| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Michael Barbone| New York, New York, United States| Amazon Web Services (AWS)| Columbia Engineering| Executive Education Certification| Front End Engineer at Amazon Web Services (AWS)| I am a Full Stack Developer with experience building websites and web applications. I specialize in the MERN stack and have an unwavering passion for creating software. My goal is to write clean, DRY, and reuse-able code while always keeping user experience in mind. <br><br>I am a motivated, team-oriented leader able to adapt quickly and achieve long-term goals. Driven by my passion for tech, I am always looking to perfect my craft and learn new languages and technologies to better my abilities. <br><br>Front-End:  Javascript ES6 / jQuery, CSS, HTML, Styled-Components, Handlebars, Webpack, 508 Accessibility<br><br>Back-End: Node.js, Express, MongoDB/Mongoose, MySQL/Sequelize, RESTful API's<br><br>Source Control: Git, Github, Jira, SCRUM/Agile<br><br>FrameWorks: React/Redux, Mobx, Bootstrap<br><br>UI/UX: Wireframing/UML, Atomic Design, User Stories<br><br>Other: Adobe Acrobat, Microsoft Office<br><br>See some of my work: mbarbone.github.io/MB_portfolio/
+Ruiheng Yin| Greater Seattle Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| Software Development Engineer at Amazon
+Umar Sheikh| New York City Metropolitan Area| Amazon Web Services (AWS)| Johns Hopkins Whiting School of Engineering| NoDegree| NoPosition| With over 13 years of experience in data, product management, and engineering, I lead a…
+Eric Bronner| Bloomfield, New Jersey, United States| Audible| Rutgers University| NoDegree| NoPosition| I am primary interested in systems architecture and design for scalable and complex…
+Sharath Chandra Sreeramoju| New York, New York, United States| Amazon| Birla Institute of Technology and Science| Bachelor's Degree| Engineering Manager @Amazon| NoAbout
+Robert J. Borowski| New York, New York, United States| Audible| Pace University| NoDegree| NoPosition| MS Computer Science. BS Business. Software Engineer & Data Engineer experience. Founder…
+Halil Ibrahim Gultekin| United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Xinhe G.| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| NoAbout
+Malav Doshi| New Brunswick, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Computer Science| Software Developer @ Amazon Web Services (AWS) | Computer Science| As a software developer at AWS, I work with a team of engineers to design, develop, and deploy scalable and secure cloud-based applications and services. I use my skills in MySQL, object-oriented programming, and back-end web development to create efficient and reliable solutions for various clients and projects.<br><br>I graduated from Rutgers University in 2022 with a major in Computer Science and a minor in Mathematics. I have always been intrigued by app development and software, and I enjoy solving problems using technology. I have completed multiple certifications and courses on Python, cybersecurity, and algorithmic trading, and I keep myself updated on the latest trends and innovations in the tech industry. I am passionate about learning new skills and applying them to real-world challenges. I am also fluent in Hindi, Gujarati, and English.
+Rodrigo P.| New York City Metropolitan Area| Audible, Inc.| Rutgers University| Bachelor of Science (B.S.)| Software Development Engineer at Audible, Inc.| NoAbout
+Hong Zhao| San Francisco Bay Area| NoCompany| Georgia Institute of Technology| NoDegree| NoPosition| NoAbout
+Lucent Fong| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| SDE at AWS| Looking forward.
+Zaina Merchant| Edison, New Jersey, United States| Rutgers School of Engineering| Rutgers University–New Brunswick| Bachelor of Science - BS| Environmental Engineering Student at Rutgers University | James J. Slade Scholar| Hello! My name is Zaina and I am a senior at Rutgers University pursuing a bachelor’s degree in environmental engineering. <br><br>During my undergraduate career, I have conducted air quality research for 2 years, specifically investigating the disproportionate impacts of air pollution on environmental justice communities. <br><br>Through my experiential and educational learning, I have become passionate about environmental justice, and the development of equitable public policies to address environmental hazards faced by underserved and vulnerable communities. I am also an advocate for open science, the accessibility of scientific knowledge to the general public, and science that serves society. <br><br>I am proficient in Python, MATLAB, Excel, AutoCAD, and SketchUp. I have also participated in various mentorship and teaching endeavors, allowing me to enhance interpersonal skills such as communication, public speaking, teamwork, adaptability, and leadership. <br><br>I am always looking for opportunities to apply my skills and grow not only as a student but as a Steward of the Earth. Please feel free to connect with me and reach out! 
+Steve G.| San Luis Obispo, California, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| Bachelor's degree| Software Development Manager| https://www.amazon.jobs/en/job_categories/software-development?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&category%5B%5D=software-development&cache
+Pranjay Kumar| New York, New York, United States| LatAmLinks| NYU Stern School of Business| NoDegree| NoPosition| At NYU's Stern School of Business, I am navigating the intricacies of finance and…
+Priyesh Shah| Seattle, Washington, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| Bachelor of Science (B.S)| Software Development Engineer at Amazon| NoAbout
+Jack Iu| New York, New York, United States| NoCompany| NoEducation| Bachelor of Science (B.S)| NoPosition| NoAbout
+Parishad Karimi| United States| Amazon| Rutgers University| Doctor of Philosophy (PhD)| Software Development Engineer| NoAbout
+Animesh S.| Seattle, Washington, United States| Amazon| Rutgers University| NoDegree| NoPosition| Skilled software engineer with a Master's degree in Computer Science and a concentration…
+Anthony Liguori| Bainbridge Island, Washington, United States| Amazon| The University of Texas at Austin| NoDegree| NoPosition| NoAbout
+Anirudh Balaji| Seattle, Washington, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| Software Engineer working for Amazon’s Data Center Systems.<br><br>Ardent soccer and…
+Xiaokang Qin| East Brunswick, New Jersey, United States| Audible, Inc.| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Hammad I.| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Sam Lee| Rutherford, New Jersey, United States| 아마존| NoEducation| NoDegree| NoPosition| Backend Development, Frontend Development, Web Design, Javascript, JQuery, Business…
+Smeet V.| New York City Metropolitan Area| Amazon| New Jersey Institute of Technology| Master's Degree| Data Scientist at Amazon| Senior Data Scientist mentoring a team of data scientists at Verizon, enabling big data machine learning  projects from prototyping to deployment on python/sql/hive/pyspark platforms. Guiding product vision for Verizon data assets to help customers solve business problems with real time analytics. Work with a cross functional team of 10+ data engineers to scale models in distributed environments, using agile methodologies. 
+Ramanan Natarajan| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Master's degree| Senior Software Engineer at Amazon Web Services (AWS)| NoAbout
+Alex Garcia| United States| Amazon Web Services (AWS)| Rutgers University| Computer Science| Software Engineer @ AWS Signer| I am a college student currently studying computer science. I discovered the power of coding in high school and have been driven to learn as much as I possibly can by my own curiosity. I enjoy working with Python and playing around with different libraries within the Python language as well as exploring what other programming languages have to offer. 
+Zhengjuan (Jenny) Fan| Mercer Island, Washington, United States| Amazon| Rutgers University| NoDegree| NoPosition| Software Engineer at Amazon.
+Tingyu Chen| Jersey City, New Jersey, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Seth McCann| Santa Clara, California, United States| Amazon| Rutgers University| Bachelor's degree| Software Development Engineer @ Amazon| I'm a senior at Rutgers University, pursuing a B.S. in Computer Science.  I'm interested in Backend and Full Stack Software Engineering, Network Programming, and Systems Programming.  I want to explore the technologies used in the industry to solve challenging problems.  I am interested in a full-time Software Engineering position upon graduation in May 2022.
+Aashna Mehta| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+June Johnnie C.| New York City Metropolitan Area| Amazon Web Services (AWS)| Columbia Business School| Master of Business Administration - MBA| Generative AI Partnerships | GenAI Partnerships & Strategy| Over 13 years of senior leadership experience in public institutions and the data tech sector, including being the first Korean-American and youngest CEO/Superintendent in New Jersey. Proven operations leader focused on strategy development and implementation including capital and human resource management. <br><br>I perform best when leading diverse teams in dynamic situations, with the unique ability to tackle ambiguous, multi-layered challenges and find sustainable solutions that result in organizational growth. Proven track record of motivating team members and instilling value and purpose under extraordinary circumstances. I have the ability to understand problems and connect the dots quickly in order to assess and plan a course of action that is data-driven and strategically aligned to creating value.
+Matt Medeiros| New York, New York, United States| NoCompany| NoEducation| Master of Business Administration - MBA| NoPosition| NoAbout
+Ed Pozarycki| New York City Metropolitan Area| NoCompany| NoEducation| Master of Business Administration - MBA| NoPosition| NoAbout
+Zhiqi Yang| United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+O'Niel McLeod| Jersey City, New Jersey, United States| Amazon| Rutgers University| NoDegree| TM1 Application Developer| NoAbout
+Allen Zhang| New York, New York, United States| Amazon| Rutgers University| Bachelor of Science - BS| SDE II at Amazon| I graduated from Rutgers University with a double major in Computer Science and Economics. I am a Software Development Engineer in Selling Partner Support at Amazon working on feature engineering tools for MLs to fight fraud and detect risky transactions.
+DA XU| Piscataway, New Jersey, United States| Bloomberg LP| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Jason Dai| Seattle, Washington, United States| Amazon| General Assembly| NoDegree| NoPosition| Experienced full stack engineer with 8 years of experience. Highly skilled in JavaScript…
+Dana Sanfilippo-McGovern| New York, New York, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| As Regional VP of Sales for Tremor Video DSP, Dana is responsible for overseeing the NY…
+Justin Huh| Los Angeles, California, United States| Amazon| Rutgers University| Bachelor of Science - BS| Software Developer 2 @ Amazon | B.S. Computer Science, B.A. Cognitive Science| As an SDE I at Amazon Free and Prime Music, I work with a talented team of engineers and designers to create and improve features that enhance user experience and satisfaction. I am passionate about applying my skills to develop features and run experiments that continuously improve the product on behalf of the customer. Thanks to my experience at Rutgers University and growing in my role at Amazon Music, I am able to solve complex problems and deliver innovative solutions that meet the needs and expectations of all our customers worldwide.<br><br>I am always looking for an opportunity to innovate and push the boundaries of what the best end experience is for my users. I am eager to continue learning and growing as a software developer, and to contribute to the success and vision of Amazon Music.
+Morgan McCabe| Seattle, Washington, United States| Amazon| Rutgers University| Bachelor of Arts - BA| Software Development Engineer at Amazon Merch on Demand| Amazon - Software Development Engineer II<br><br>Rutgers University - Computer Science and Cognitive Science double major, English minor, Summa Cum Laude
+Jay Kim| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Arts - BA| Software Development Engineer at Amazon| NoAbout
+Nicholas Clegg| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition| Software Development Engineer at Amazon. Have strong interests in Robotics and Machine…
+David Lazaar| New York City Metropolitan Area| Audible, Inc.| Rutgers University| NoDegree| NoPosition| NoAbout
+Paul Chang| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| Twenty years of experience working with leading banking and financial institutions to…
+Krishna Anantha Padmanabhan| Seattle, Washington, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Rishab Chawla| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Loriana Ayinde| Washington DC-Baltimore Area| Amazon Web Services (AWS)| ELVTR| Certificate of Completion| Developer Experience Engineer | AWS Amplify| NoAbout
+Raghvender Arni| United States| NoCompany| NoEducation| Certificate of Completion| NoPosition| NoAbout
+Kostantinos Morfesis| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| Data scientist<br><br>Skills:<br><br>Software and Programming: <br>Python (Matplotlib…
+Jan Dean Catarata| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition| I grew up honing my ability to turn coffee into code so I moved to Seattle where both…
+Yuyang He| New York City Metropolitan Area| Amazon Web Services| Georgia Institute of Technology| NoDegree| NoPosition| Actively seeking full-time position as a Software Engineer in Spring 2018.<br><br>First…
+Kushal Doshi| New Brunswick, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+James Downing| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor's degree| Software Development Engineer II at Amazon| I graduated Rutgers University with a bachelor's degree in computer science. I am currently a software development engineer at Amazon working on the Intelligent Cloud Control Team in New York City.
+Junling Sun| Beaverton, Oregon, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Brian Sung| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science (BS)| SDM at AWS Silk| Software Developer at Amazon specializing in Android Development
+Nicolas Borges| Jersey City, New Jersey, United States| Amazon| Rutgers University| Bachelor of Arts - BA| Software Developer @ AWS| Software Engineer motivated to build technology that optimizes and solves people's problems. Currently working for Amazon, improving genAI and AWS Service tools for our customers.
+David Tian| Fords, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| I am a goal-driven individual with a passion for discovering, exploring, and applying the…
+Yaniv M.| United States| Audible, Inc.| Rutgers University-New Brunswick| Electrical and Computer Engineer| Software Development Engineer| NoAbout
+Zhaolei Wang| United States| Amazon Web Services (AWS)| Rutgers University| Master's degree| SDE II at AWS| NoAbout
+Nikunj Patel| Greater Seattle Area| Amazon| Rutgers University| B.S.| Senior Data Engineering Manager - Amazon Devices and Services Finance| SPECIALTIES: <br><br>IBM TM1 10.2.2, BPC 5.1/7.5/10.0, BOBJ, R/3, BI 7.0, ABAP/4, BSP, WebdynPro.<br><br>TRAININGS:<br><br>IBM Cognos TM1: Analyze and Share Data (V10.1) P8157<br>IBM Cognos TM1: Design and Develop Models (V10.1) P8152<br>South Plainfield, NJ - June 2012<br><br>SAP BPC 10.0 Mega Elite Enablement @ SAP Labs<br>Philadelphia, PA - Nov 2011<br><br>SAP BPC 7.0 NW (CPM330) Training<br>Dallas, TX	- Nov 2009<br>		<br>SAP BPC 5.1 MS (CPM320) Training <br>Stamford, CT - June 2008<br><br>Cisco Networking Academy Training I-IV<br>Cisco Certified - Fundamentals of Web Design<br><br>PRESENTATIONS:<br><br>Co-Presented with SAP at ASUG Fall Focus Conference Orlando, FL - October 2010<br>“Closing the Gap – Migrating from BPC Microsoft to Netweaver” <br><br>PUBLICATIONS:<br><br>SAP Community Network White Paper Contribution:<br>“How-To Create Master Data on the Fly for SAP BPC 7.5 NW”<br>(http://www.sdn.sap.com/irj/scn/index?rid=/library/uuid/f08895ab-f152-2e10-7d8b-950a8e5eba0c)<br><br>EXPERIENCE:<br><br>- Qualities include exceptional analytical and troubleshooting skills, business presentation skills, customer and detail-oriented mindset.<br><br>- Recent project lead for both functional and technical of BPC 7.5 NW to BPC 10 HANA<br><br>- Completed a one-touch Capital Planning application that combines BPC 7.5 with a Webdynpro portal, SAP workflow, R/3, and BI. <br><br>- Successful ramp-up and migration of SAP BPC 5.1 Microsoft to SAP BPC 7.5 Netweaver.<br><br>- Completed a one-touch Capital Planning application that combines BPC 7.5 with a Webdynpro portal, SAP workflow, R/3, and BI. <br><br>- Completely customized script solutions via BAdi and APIs<br><br>- Involved in installation of BPC on multi-tiered landscape. Knowledgeable in configuration, service pack upgrades, and hardware concepts<br><br>- Knowledge of network administration and security involving Active Directory, Citrix, and F5 load balancing.<br><br>- Proficient in Microsoft technologies including Server 2000/2003, SQL 2000/2005/2008, and IIS.
+Joan Shen| Cliffside Park, New Jersey, United States| NoCompany| NoEducation| B.S.| NoPosition| NoAbout
+Yupeng Liu| Matawan, New Jersey, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Arth Desai| United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Mayur Patel| Edison, New Jersey, United States| Amazon| Rutgers | School of Graduate Studies| Master of Science - MS| Software Engineer at Amazon| I am a responsible biomedical engineer graduate skilled in designing and analyzing solutions for medical and programming-related problems.<br><br>I demonstrate both excellent communication skills and sound judgment under high-stress environments. I am a natural go-getter who is eager to collaborate with a diverse focused team. I possess the unique ability to handle multiple projects at one time, combining well-developed analytical skills with strong critical thinking and problem-solving skills.
+Monika Bhagchandani| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Stephen Kane| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Tegh Aiden| Washington DC-Baltimore Area| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Development Engineer at Amazon Web Services| Software engineer who loves to learn
+Ashish Podduturi| Bayonne, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Master of Business and Science| AWS CodeWhisperer - Software Development Engineer| Data Scientist with a passion for developing insights for business problems with experience in creating data science models for market research, and User experience applications and tools using Deep learning and Natural Language Processing. My experience extends from machine learning models for business to computer visions and Natural Language Processing Techniques.
+Samuel Minkin| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| Software Engineer at Amazon| NoAbout
+Jingyuan Li| Greater Seattle Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| Interests: backend development, distributed systems
+Deep Lokhande| New Brunswick, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| Graduate Student at Rutgers ECE, with interests in Quantum Computing, Artificial…
+Jiahui Shan| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| NoAbout
+Harika Matta| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Raj Shah| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Vikram Narayanan Ravi Narayanan| Fremont, California, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| Master of Science| Software Development Engineer II at AWS| NoAbout
+Jonathan Luu| Edison, New Jersey, United States| Amazon| Rutgers University| Bachelor of Arts - BA| Operations manager| Forward-thinking team leader skilled at operating departments efficiently to meet goals. Successful background matching employees with roles for maximum performance. Proactive and hardworking individual focused on continuous operational improvement.
+Michael Shur| Seattle, Washington, United States| Amazon Web Services (AWS)| University of Pennsylvania| NoDegree| NoPosition| Current software developer at Amazon Web Services. Passionate about learning different…
+Elijah Ongoco| Somerset, New Jersey, United States| Audible| Rutgers University| Bachelor of Science - BS| Software Engineer| Software Engineer currently working at Audible.
+Priyanka Kale| Greater Seattle Area| Twilio| Rutgers University| NoDegree| NoPosition| •Programming Languages/Technologies: Kotlin, Java, Ruby, YAML, HTML, JSP, PHP, XML, SQL…
+Chun Yeung| Spring Valley, New York, United States| Audible, Inc.| Rutgers University| NoDegree| Software Development Engineer at Audible, Inc.| NoAbout
+Aarjav Patel| Monroe, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Mohammed Rupani| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Harsh Rajkumar| San Francisco, California, United States| Amazon| Rutgers University| Master of Science - MS| Software Engineer @ Amazon| I am a Computer Science graduate from Rutgers University, New Brunswick. My area of concentration was Machine Learning - Recommendation Systems, Smart Cities & Natural Language Processing.<br><br>Paper Publication: Understanding User Behavior in Car Sharing Services Through The Lens of Mobility: Mixing Qualitative and Quantitative Studies (UbiComp’21 - ACM IMWUT Journal Vol. 4, No. 4, Article 156)<br><br>I have worked on multiple projects involving High Throughput Backend services, Fault-Tolerant System Design, Deep Learning & Machine Learning involving Time-Series data, Smart Cities - Car Sharing Services, Knowledge Graphs translational embedding-based recommender systems, and Multi-Task Transformer architecture-based language understanding models. <br><br>I have experience creating SOTA models and the backbone of Natural Language Understanding Platform which included but wasn't limited to designing a highly available & resilient backend database(NoSQL MongoDB), Horizontally Load-Balanced Application architecture, and designing software services from the ground up.<br><br>Previously, I have also worked on -<br>A context-aware Search Algorithm that improved itself continuously based on click-through rate & feedback received. It also had Auto-Suggest and Type-Ahead to guide users on better search queries.<br><br>Product Insights Reporting Systems which involved designing data models to provide customers insights into product usage and for continuous self-improvement of product services.<br><br>I won Light Bulb Award for the Most Innovative & Sustainable Idea in MicroTyco Challenge organized by WildHearts NGO and my team was a finalist for the Barclays Group Technology Awards.<br><br>I welcome any connections and opportunities that will further enhance my knowledge base. Let's grab a cup of coffee and exchange our thoughts and ideas. Feel free to connect with me via my email at harsh2kumar@gmail.com
+Benjamin Lee| River Edge, New Jersey, United States| Amazon| Rutgers University| Bachelor of Arts - BA| Software Development Engineer at Amazon| NoAbout
+Deeptanshu Singh| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition| I'm a seasoned Software Engineer with 6+ years of dedicated experience, I specialize in…
+Christopher Votta| Verona, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Nairuti Shah| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Master of Science - MS| Software Development Engineer @ AWS| An aspiring MSCS with specialization in Data science. Graduate student at Rutgers University. A team player, looking for opportunities in Artificial Intelligence / Machine learning / Software Development . Hardworking ,dedicated and always curious to learn . Have great Leadership  qualities and communication skills.
+Abhi Verma| Hoboken, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition| Areas of Interest<br>-----------------<br>Full Stack Development, Algorithms, Cloud…
+Nitin Gupta| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| * Engineering leader with 20 years of experience, including over 10 years in building…
+Paul Corotan| Hackensack, New Jersey, United States| NoCompany| NoEducation| NoDegree| NoPosition| NoAbout
+Rasagna Veeramallu| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition| Currently working as Software Development Engineer at Amazon Web Services. <br>
+Samip Parikh| San Francisco Bay Area| NoCompany| NoEducation| NoDegree| NoPosition| NoAbout
+Greg Fuerte| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| Software engineer with 3+ years of experience working in big tech companies. Experienced…
+Mike James| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| NoAbout
+Andrew Ryon| New York, New York, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Geet Massand| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| A Rutgers University graduate that majored in Computer Science and minored in…
+Tej S.| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| I recently graduated from Rutgers University, where I earned dual degrees in Computer…
+Jason Mustafa| Greater Seattle Area| Amazon Web Services (AWS)| Rutgers University-New Brunswick| Bachelor's degree| Software Engineer II @ AWS ☁️| Hi! I am currently working as a Software Development Engineer at Amazon Web Services (AWS). I recently graduated from Rutgers University with a degree in computer science and a minor in mathematics. I enjoy keeping up with the latest technologies in the development world and how they can be used to help our communities. I have worked extensively with:<br><br>- Java<br>- Python<br>- JavaScript<br>- React<br><br>Please feel free to connect with me!
+Joshua Ross| Hoboken, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Development Engineer II for AWS Bedrock| Graduated from Rutgers University-New Brunswick as a School of Arts and Sciences (SAS) honors student with a Bachelor of Science (B.S.) in both computer science and mathematics and a minor in business administration. Currently a Software Engineer
+Jason Baik| United States| Amazon Global Robotics| Rutgers University| NoDegree| NoPosition| NoAbout
+Gloria Leung| San Francisco Bay Area| Amazon Lab126| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Masood K.| Arlington, Virginia, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Development Engineer II at Amazon Web Services (AWS)| NoAbout
+Jiajian (Jay) Wu| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| NoPosition| Software engineer with experience in the finance and technology industry.
+Jie Huang| North Brunswick, New Jersey, United States| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Paul Batchis| Edison, New Jersey, United States| Amazon.com| Rutgers University| M.S.| Software Development Engineer at Amazon.com| NoAbout
+Alice Ye| Seattle, Washington, United States| Amazon| Rutgers University| Master of Science - MS| SDE at Amazon| NoAbout
+Yang Wang| Bellevue, Washington, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| PhD| Senior SDE at Amazon| NoAbout
+Joseph George| Edison, New Jersey, United States| Kiva| Rutgers University–New Brunswick| Computer Science, Business Analytics, Minor in Statistics| CS + Business Analytics @ Rutgers| Rutgers University senior double-majoring in Computer Science and Business Analytics with a minor in Statistics. Passionate about statistical applications in the social sciences. Interested in how we can optimize analytical, data-driven thinking to make better-informed decisions. I am seeking a Data Science internship where I can leverage my experience in quantitative analysis and predictive modeling.<br><br>Actively contributing to the advancement of basketball analytics through my blog: thezonemaster.substack.com. Feel free to reach out!<br><br>Email: joseph.a.george@gmail.com
+Jeffrey Huang| Chatham, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Priyanka Dhingra| Greater Seattle Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| Pursuing Masters in Computer Science with three years of experience in software design…
+Mike Triano| New York City Metropolitan Area| Audible| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Mayank .| New Brunswick, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| Master of Science (M.S.)| Software Engineer| Continuing my obsession with computer science, current interest lies somewhere between graphics and machine learning.
+Dante Torello| Weehawken, New Jersey, United States| Amazon| Rutgers University| Bachelor's degree| Software Engineer at Amazon| A recent graduate from Rutgers University where I pursued a Bachelor of Science in Electrical and Computer Engineering. I am interested in expanding my development skills to become an even more proficient software engineer. My current goals are to gain experience and also contribute to meaningful and cutting edge projects. Please connect if you want to talk about work, past projects, or potential opportunities!
+Michael Z.| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| Bachelor of Science (BS)| Software Engineer| Experienced Software Engineer with a demonstrated history of working in the hospital & health care industry. Strong engineering professional with a Bachelor of Science (BS) focused in Electrical and Computer Engineering (Graduation Fall 2015) from Rutgers University-New Brunswick. 
+Xulai Jiang| Jersey City, New Jersey, United States| Amazon Web Services (AWS)| University of Southern California| NoDegree| NoPosition| NoAbout
+Suraj Komarla Amaranarayana| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Masters in Science| Software Development Engineer at AWS| I am a passionate software engineer with a strong focus on building scalable, efficient solutions that drive business transformation. With expertise in cloud services, microservices, full-stack development, and AI/ML, I enjoy solving complex technical challenges and developing systems that optimize performance and enhance user experience. My approach is rooted in delivering robust, secure, and scalable applications while keeping user-centric design at the forefront.<br><br>Throughout my career, I’ve had the opportunity to work on diverse projects spanning healthcare, cloud computing, and big data. These experiences have shaped my technical and problem-solving skills, teaching me the following about myself:<br><br>• I thrive on architecting and implementing cloud-based and microservices solutions. Whether it’s migrating legacy systems, optimizing data pipelines, or automating infrastructure, I bring a methodical approach to every project.<br><br>• I excel at bridging the gap between engineering and business needs. I collaborate closely with cross-functional teams to translate technical concepts into practical, high-impact solutions that align with business goals.<br><br>• I am always learning. Staying ahead of the latest in software engineering, cloud platforms, and AI/ML advancements is a priority for me. I actively seek new challenges and technologies to continuously improve my skills.<br><br>Professional Skills:<br>Cloud Computing (AWS, Kubernetes, Terraform) | Microservices Architecture | Full-Stack Development (Java, ReactJS, Python, SpringBoot) | AI/ML (Generative AI, Video/Image Processing) | Data Engineering | Automation | Distributed Systems | GraphQL | PostgreSQL | Kafka | Event-Driven Architecture | Secure Coding Practices<br><br>Domain Knowledge:<br>Healthcare | FinTech | Cloud Infrastructure | AI/ML | Data Security | Enterprise Solutions | Application Development | Technical Leadership | System Scalability<br><br>I am always open to connecting with fellow professionals and exploring new opportunities to create impactful software solutions. Feel free to reach out if you’d like to discuss emerging technologies, technical challenges, or collaborate on innovative projects.
+Ryhan Moghe| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| Software Engineer II @ Amazon| NoAbout
+Jared C.| New York, New York, United States| Amazon| Rutgers University| Bachelor of Science - BS| Rutgers University '23 | Amazon Flex SDE| NoAbout
+Tianyi Yu| Park Ridge, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Guolei Chen| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Master's degree| Software Development Engineer at AWS IoT (Amazon)| Always Day 1
+Andrew King| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| I’m a software engineer at Amazon Web Services (AWS) in the AI/ML org and graduated from…
+Marvin Gersho| Short Hills, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| Technology Leader and Solutions Architect leveraging broad technical skills and deep…
+Milap Shah| United States| Amazon| Rutgers University-New Brunswick| Bachelor’s Degree| Software Development Engineer at Amazon| NoAbout
+William Freitag| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| Hello! My name is William Freitag and I am an L5 software engineer at Amazon. I have…
+A. Vaghefi| Seattle, Washington, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Jack Chiu| United States| Amazon Robotics| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Prajna K.| New York City Metropolitan Area| Audible| Rutgers University| NoDegree| NoPosition| NoAbout
+Zhilmil Dhillon| Seattle, Washington, United States| Amazon| Rutgers University-New Brunswick| Master's degree| Sr Software Development Engineer at Amazon| NoAbout
+Swetha Angara| New York City Metropolitan Area| Audible| University of Illinois Urbana-Champaign| Master of Computer Science| Software Engineer at Audible| Computer engineering graduate interested in building innovative and user-focused software
+Mohamed S.| North Brunswick, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition| Experienced Full-Stack Software Engineer with a demonstrated history of working in the…
+David Acevedo| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| I love to code. The ability to create both advanced software solutions from nothing more…
+Yixin Zhou| New York City Metropolitan Area| Amazon| Syracuse University| NoDegree| NoPosition| NoAbout
+Hanqing Zhao| United States| Amazon| Rutgers University| Bachelor of Science - BS| Software Development Engineer| Seeking for Software Engineer position
+Sunny Wong, Ph.D.| Greater Seattle Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| I have 5+ years of R&D experience in thermal analysis, heat transfer, fluid dynamic…
+John Tabor| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Sooho Lim| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor's| Software Dev Engineer @ AWS| i try my best to write clean code
+Kevin Cherry| Robesonia, Pennsylvania, United States| Amazon Fulfillment Technologies & Robotics| Penn State University| IST| Engineering Lead at Amazon MSP| NoAbout
+Ziqiu Zhu| Atlanta, Georgia, United States| Amazon| The George Washington University| NoDegree| NoPosition| An engineer interested in machine learning, deep learning, natural language processing…
+Will Yang| Jersey City, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| Experienced full stack software engineer currently leading an engineering team in…
+Anne He| Seattle, Washington, United States| Amazon| Carnegie Mellon University| NoDegree| NoPosition| Hi, I'm Anne, and welcome to my LinkedIn profile! I'm a creative problem solver who is…
+Sanjay Goyal| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Eshaan Gandhi| New York, New York, United States| Audible| Rutgers University| Bachelor of Science - BS and Bachelor of Arts - BA| Software Engineer at Audible, Inc| NoAbout
+Rana Dutt| Morganville, New Jersey, United States| NoCompany| NoEducation| Bachelor of Science - BS and Bachelor of Arts - BA| NoPosition| NoAbout
+Katie Wilcox| New York City Metropolitan Area| Audible| Rutgers University| NoDegree| NoPosition| Rutgers University graduate with a B.S in Computer Science and a Minor in Mathematics and…
+Raymond Yoo| United States| Amazon| Rutgers University| Bachelor of Science - BS| Machine Learning Engineer @ Amazon| - Did research in spiking neural networks and deep reinforcement learning.<br>- Publications:<br>        - https://arxiv.org/abs/2010.09635 <br>        - https://openreview.net/forum?id=ZPBJPGX3Bz&noteId=Squ8WoY9UQ<br>- Like to code and play guitar
+James Montagne| United States| Audible, Inc.| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Scott Katzelnick| New York City Metropolitan Area| Amazon| Northeastern University| NoDegree| Front End Engineer II @ Amazon | Full-Stack Software Developer| Experienced Full Stack Engineer with a demonstrated history of working in both web and mobile industries. Skilled in SaaS, Full-Stack Development, React/React-Native, and native app development, run in CI/CD, Agile workflows. Strong engineering professional with a steadfast focus on delivering products. Graduated from The Tech Academy as a Full Stack Developer.
+Junlin Lu| McLean, Virginia, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| NoAbout
+Kaifei Lei| United States| Amazon| Rutgers University| NoDegree| NoPosition| Well-qualified Full Stack Developer familiar with a wide range of programming utilities…
+Craig P.| Brooklyn, New York, United States| Amazon Web Services (AWS)| Northeastern University| Master's degree| Machine Learning/Software Engineer| NoAbout
+Andrew Mathew| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| Software Development Engineer at Amazon| NoAbout
+Yu Zheng| Jersey City, New Jersey, United States| Audible| Rutgers University| NoDegree| NoPosition| NoAbout
+David Breuer| Boston, Massachusetts, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| Experienced software engineer familiar with architecting highly available and highly…
+Hao Zeng| New York, New York, United States| Amazon| Stony Brook University| NoDegree| NoPosition| NoAbout
+Kevin Lin| Allen, Texas, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| Strong problem-solving abilities. Strong knowledge on Object Oriented Programming…
+Fady Besada| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| As a determined and intrigued individual, I am driven to achieve my goal of making…
+Evanthia (Anthi) Tapiri| New York, New York, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| NoAbout
+Karan Kadaru| Old Bridge, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Jeff Y.| Seattle, Washington, United States| Amazon| Rutgers University-New Brunswick| Master’s Degree| SDE-III @Amazon| NoAbout
+Todd Gruet| Charlotte, North Carolina, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| I am an Infrastructure professional with extensive experience in Infrastructure…
+Fan Jiang| New York, New York, United States| Amazon| Tsinghua University| NoDegree| NoPosition| A Senior Software engineer with over 20 years experience in software architecture, design…
+Priya C.| New York, New York, United States| NoCompany| NoEducation| NoDegree| NoPosition| NoAbout
+Joshua Yu, MBA| New Brunswick, New Jersey, United States| Amazon Web Services (AWS)| Rutgers Business School| Master of Business Administration - MBA| Software Engineer @ Amazon| My passion lies in the exploration of areas and opportunities to disrupt traditional business models and strategies with emerging technological innovation. <br><br>I have 3 years of experience as a Lead Software Engineer at CyberMed Health. Under my leadership, I conceptualized, designed, and launched an innovative communication application that is utilized by more than 27,000 unique active patients and over 500 doctors. I explore, analyze, and interpret big data regarding the company’s telehealth and remote patient monitoring, delivering detailed quarterly reports for utilization by clients. In addition, I liaise with senior leadership, outside organizations, and departmental teams to ensure the company’s product engineering structure is driving the business forward with minimal expenditures.<br><br>I am interested in contacting former colleagues and managers, as well as other professionals in my field. Feel free to contact me through this profile if you wish to connect.
+Karan Bheda| Jersey City, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| Graduate student pursuing a Masters degree in Computer Science at Rutgers University, New…
+Yue Wu| Washington DC-Baltimore Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| NoAbout
+Phurushotham Shekar| Vancouver, British Columbia, Canada| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| Software Development Engineer I @ AWS IoT Analytics
+Bailey Chen| Leonia, New Jersey, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Jingsong Yuan| Seattle, Washington, United States| Amazon| Rutgers University| Master’s Degree| Software Development Engineer| NoAbout
+Mengzhu Li| Seattle, Washington, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| NoAbout
+Srikant Viswanath| Green Bay, Wisconsin, United States| Amazon Web Services (AWS)| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| Backend engineer with a passion for designing scalable and maintainable systems with…
+Justin Chen| New York City Metropolitan Area| Amazon| Marlboro High School| NoDegree| Software Developer at Amazon| I am a junior in the Rutgers University School of Engineering, pursuing a double major in Computer Science and Computer Engineering and a minor in Mathematics. Currently seeking a Data Science/SWE internship for Summer 2021.
+Vardhany Darbha| Greater Seattle Area| Amazon| Rutgers University| NoDegree| NoPosition| Currently I am a Software Development Manager at Amazon<br><br>If you are looking for a…
+Ilya Samoylov| Ridgewood, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| Backend Software Engineer with hands-on experience designing and developing backend…
+Pawel Szczurko| New York City Metropolitan Area| Amazon| NoEducation| NoDegree| NoPosition| NoAbout
+Mathew Varghese| New York City Metropolitan Area| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| Currently an SDE 2 at Amazon. Graduated Magna Cum Laude from Rutgers University, double…
+Alison Wong| East Brunswick, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science (B.S.)| Software Engineer at Amazon Web Services| NoAbout
+Ryan Mclaughlin| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Avni Patel| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| NoDegree| NoPosition| NoAbout
+Harsh Patel| New York, New York, United States| Amazon Web Services (AWS)| Rutgers University| Masters| SDE II @Amazon AWS| I am full-stack developer. My areas of interest are Web development, dev-ops and system design. I have been a proficient learner and practical thinker and want to share my knowledge and expertise to the field of computer science to built great products and resources that can help millions of people all around the world. 
+Jason Hunt| New York City Metropolitan Area| Amazon| Georgia Institute of Technology| NoDegree| NoPosition| Rutgers University graduate with a Bachelors in Computer Science and a minor in…
+Ryan Bandilla| New York, New York, United States| Audible| Rutgers University-New Brunswick| NoDegree| NoPosition| Experienced software engineer who loves his job, investing, cooking and mechanical…
+Kevin Shanley| Denver Metropolitan Area| Amazon Web Services (AWS)| NoEducation| NoDegree| Principal Solutions Architect, AWS Identity| Highly skilled and dynamic information security architect and practice lead with proven success in selling, designing, and deploying cutting edge, high-volume solutions for government agencies, banks, telecoms, insurance, and manufacturing industries.<br> <br>Strong technical and analytical skills and have an excellent theoretical and practical background in Computer Networks, Identity and Access Management, PKI, Single Sign-On, Fraud Detection, and Software Development.<br><br>Programming Skills:<br>Java, J2EE, AWK, SED, C, Bash, Visual Basic.NET<br><br>International experience working in over 30 countries across North America, Europe, Middle East, Africa, and Asia.  Operationally based in U.S.A., Finland, and The Netherlands.<br><br>Specialties: Web Security, Single Sign-on, Public Key Infrastructure (PKI), Identity and Access Management, Identity Federation, Cryptography, Web Services, Fraud Detection, Systems Administration / Monitoring / Performance Tuning.
+Scott B.| New York City Metropolitan Area| Amazon| Rutgers, The State University of New Jersey-New Brunswick| NoDegree| NoPosition| Software Architect, Developer, and project manager focusing on open-source solutions and…
+Vachagan Melikian| New Brunswick, New Jersey, United States| Twitch| Rutgers University| Bachelor of Science - BS| Incoming SWE Intern @ Twitch | CS + Cog Sci + Ling + History @ Rutgers | O4U '24 | Prev SWE @ Fidelity Investments| Hello! I am an undergraduate at Rutgers University double majoring in Computer Science and Cognitive Science and double minoring in History and Linguistics. I previously interned as an iOS Mobile Engineer for Fidelity Investments. Outside of software engineering, I perform interdisciplinary research, including intersectional biases in LLMs and the cognitive science of active/passive syntax constructions.
+Howard A. A. Smith| Shrewsbury, Massachusetts, United States| Amazon Global Robotics| Georgia State University| Doctor of Philosophy - PhD| Statistician/Mathematician/Data Scientist/ Educator| I have a passion for data science and machine learning.<br><br><br>Programming: Python (pandas, numpy, Scipy, matplotlib , scikit-learn, pytorch, seaborn) , SQL.<br>Statistics: Probability, Distribution, Hypothesis Testing, Bayes Theorem, ANOVA, A/B test, Nonparametric, Time Series.<br>Machine Learning: generalized linear models, decision trees, random forest, gradient boosting, k-nearest neighbors, k- means clustering, naive bayes, Convolutional Neural Networks, LSTM.<br><br>
+Samantha Scalese| Egg Harbor, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Arts - BA| Software Engineer @ AWS| interested in computer science and cognitive science.
+Joshua O.| Jersey City, New Jersey, United States| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| NoAbout
+Parth Parikh| New York City Metropolitan Area| Amazon| Rutgers University-New Brunswick| Bachelor's Degree| Senior Software Engineer at Amazon| NoAbout
+Harsh Patel| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| Experienced Senior Software Engineer with a demonstrated history of working in the…
+Zichen Lao| San Francisco Bay Area| Amazon| University of Pennsylvania| Master's degree| Software Development Engineer| Current Software Development Engineer in Amazon.
+Daniil G.| New York City Metropolitan Area| Amazon| Rutgers University| Bachelor of Science - BS| SDE @ Amazon| NoAbout
+Adit Patel| New York, New York, United States| NoCompany| Rutgers University| NoDegree| NoPosition| NoAbout
+Fernando Geraci| Piscataway, New Jersey, United States| Amazon Web Services (AWS)| Rutgers University-New Brunswick| Master's Degree| Systems Development Engineer| NoAbout
+Kuo-Wei Chung| Seattle, Washington, United States| Amazon| Rutgers University| NoDegree| NoPosition| Technical Skills:<br>• Programming Languages: Java, Python, JavaScript, TypeScript<br>•…
+Ishani Ghose| Seattle, Washington, United States| Amazon| Rutgers University| Master of Science - MS| Amazon | MS CS - Rutgers University | Microsoft | Microsoft Research India| NoAbout
+Wei-Chung Cheng| San Francisco Bay Area| Amazon| Rutgers University-New Brunswick| NoDegree| NoPosition| Software engineer specialized in designing, developing, and implementing applications…
+Andrew Michal| Windham, New Hampshire, United States| NoCompany| NoEducation| NoDegree| NoPosition| NoAbout
+Chao G.| New York City Metropolitan Area| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Brian Lin| Pflugerville, Texas, United States| Amazon| Rutgers University| Computer Engineering & Computer Science| Software Engineer at Amazon| NoAbout
+David Segal| Washington DC-Baltimore Area| Amazon| Rutgers University| Computer Engineering & Computer Science| NoPosition| NoAbout
+Enkai Ji| New York, New York, United States| Amazon| Rutgers University| NoDegree| NoPosition| NoAbout
+Zetao Yu| San Diego, California, United States| Amazon| Duke University| Master of Science - MS| Software Dev Engineer at Amazon| A passionate software developer with great interests in software and web development, graph theory, algorithms, machine learning and robotics
+Sophie Cho| United States| Amazon Web Services (AWS)| Rutgers University| Bachelor of Science - BS| Software Engineer| NoAbout
+Srinivas Mudireddy| Atlanta Metropolitan Area| Amazon| Fuqua School of Business, Duke University| Master of Business Administration (MBA)| Senior Manager - Product Management Tech| NoAbout

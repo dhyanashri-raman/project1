@@ -25,14 +25,15 @@ with open("names.txt", "w", encoding="utf-8") as file:
         else:
             degree = education_details[0].get("degree", "NoDegree")
 
-        #about = line.get("about", "")
+        about = line.get("about", "")
         position = line.get("position", "")
         if position == "":
-            #about = "NoAbout"
             position = "NoPosition"
+        if about == "":
+            about = "NoAbout"
 
-        print(school +", "+ degree)
-        file.write("| " + school + "| " + degree + "| " + position + "\n")      
+        print(about)
+        file.write("| " + school + "| " + degree + "| " + position + "| " + about + "\n")      
         
         
 
