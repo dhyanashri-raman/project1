@@ -39,7 +39,7 @@ with open("names.txt", "r", encoding="utf-8") as file2:
 
     profiles = []
     for line in lines:
-        fields = line.strip().split("|")
+        fields = line.strip().split("| ")
         
         name = fields[0] if len(fields) > 0 and fields[0] != "NoField" else "Unknown"
         location = fields[1] if len(fields) > 1 and fields[1] != "NoField" else "Unknown"
@@ -47,7 +47,7 @@ with open("names.txt", "r", encoding="utf-8") as file2:
         university = fields[3] if len(fields) > 3 and fields[3] != "NoField" else "Unknown"
         degree = fields[4] if len(fields) > 4 and fields[4] != "NoField" else "Unknown"
         position = fields[5] if len(fields) > 5 and fields[5] != "NoField" else "Unknown"
-        about = fields[6] if len(fields) > 6 and fields[6] != "NoField" else "NoAbout"
+        about = fields[6] if len(fields) > 6 and fields[6] != "NoField" else "Unknown"
 
         profiles.append({
             "name": name,
@@ -58,8 +58,7 @@ with open("names.txt", "r", encoding="utf-8") as file2:
             "position": position,
             "about": about
         })
-
-    # Print extracted data
-    for profile in profiles:
-        print(profile)
     
+    for profile in profiles:
+        prompt = f"Generate a networking email to {profile['name']}, who works at {profile['company']} as {profile['position']}. {profile['name']} earned their degree, {profile['degree']}, from {profile['university']}. Their About section is: {profile['about']}. Mention that I am interested in learning more about their work and connecting over shared interests in software engineering. Keep the email polite, engaging, and professional."
+        print(prompt)
