@@ -1,4 +1,7 @@
 import json
+import openai
+import os
+import time
 
 with open("LinkedInProfiles.json", "r", encoding="utf-8") as file:
     data = json.load(file)  
@@ -67,3 +70,39 @@ with open("names.txt", "r", encoding="utf-8") as file2:
                 continue
             prompt = f"Generate a networking email to {profile['name']}, who works at {profile['company']} as {profile['position']}. {profile['name']} earned their degree, {profile['degree']}, from {profile['university']}. Their About section is: {profile['about']}. Mention that I am interested in learning more about their work and connecting over shared interests in software engineering. Keep the email polite, engaging, and professional."
             file3.write(prompt + "\n")
+
+client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))  # Load the API key
+
+with open("prompts.txt", "r", encoding="utf-8") as file:
+    prompts = file.readlines()
+
+def generate_email(prompt):
+    while True:
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4-turbo",  # Need to replace with the o-1 mini model
+                messages=[
+                    {"role": "system", "content": "You are an AI that generates professional networking emails."},
+                    {"role": "user", "content": prompt}
+                ]
+            )
+            return response.choices[0].message.content.strip()
+
+        except openai.RateLimitError:
+            print("Rate limit reached. Waiting 10 seconds before retrying...")
+            time.sleep(10) 
+
+        except Exception as e:
+            print(f"Error: {str(e)}")
+            return None
+
+with open("networking_emails.txt", "w", encoding="utf-8") as output_file:
+    for i, prompt in enumerate(prompts):
+        prompt = prompt.strip()
+        if prompt:
+            email = generate_email(prompt)
+            if email:
+                output_file.write(f"Email {i+1}:\n{email}\n\n{'='*80}\n\n")
+                print(f"Generated email {i+1} successfully.")
+
+print("\n All emails have been generated and saved to 'networking_emails.txt'.")
