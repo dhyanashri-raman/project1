@@ -2,6 +2,11 @@ import json
 import openai
 import os
 import time
+import resumeParser
+
+pdf_resume = "resume.pdf"
+resume_text = resumeParser.extract_content(pdf_resume)
+resume_skills = resumeParser.extract_skills(resume_text)
 
 with open("LinkedInProfiles.json", "r", encoding="utf-8") as file:
     data = json.load(file)  
@@ -68,10 +73,8 @@ with open("names.txt", "r", encoding="utf-8") as file2:
             if count == 0:
                 count += 1
                 continue
-            prompt = f"Generate a networking email to {profile['name']}, who works at {profile['company']} as {profile['position']}. {profile['name']} earned their degree, {profile['degree']}, from {profile['university']}. Their About section is: {profile['about']}. Mention that I am interested in learning more about their work and connecting over shared interests in software engineering. Keep the email polite, engaging, and professional."
+            prompt = f"Generate a networking email to {profile['name']}, who works at {profile['company']} as {profile['position']}. {profile['name']} earned their degree, {profile['degree']}, from {profile['university']}. Their About section is: {profile['about']}. Mention that I have experience in {', '.join(resume_skills[:5])} based on my resume, and I would love to connect over shared interests. My name is Total text should stay under 150 words. Use a warm, professional tone that sounds human and approachable."
             file3.write(prompt + "\n")
-
-# Read in resume and get important details
 
 client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))  # Load the API key
 
